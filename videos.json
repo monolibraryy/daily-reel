@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "videos": [
   {
    "id": "apple-1984",
@@ -2168,6 +2168,196 @@
    "dir": "Romain Gavras",
    "yt": "vRunUkdkK8s",
    "added": "2026-11-07",
+   "vimeo": ""
+  },
+  {
+   "id": "travis-sicko-mode",
+   "brand": "Travis Scott",
+   "title": "SICKO MODE (ft. Drake)",
+   "year": 2018,
+   "cat": "music",
+   "len": "5:23",
+   "tags": [
+    "music-video",
+    "psychedelic",
+    "multi-section",
+    "vfx"
+   ],
+   "note": "A song in three movements, so the video changes worlds with every beat switch. When the track shifts, let the whole visual language shift with it.",
+   "dir": "Dave Meyers & Travis Scott",
+   "yt": "6ONRf7h3Mdk",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "travis-highest-in-the-room",
+   "brand": "Travis Scott",
+   "title": "HIGHEST IN THE ROOM",
+   "year": 2019,
+   "cat": "music",
+   "len": "2:57",
+   "tags": [
+    "music-video",
+    "surreal",
+    "floating",
+    "color"
+   ],
+   "note": "Dave Meyers builds dreamlike, gravity-free imagery around a single feeling. One strong surreal idea, pushed hard, beats ten small ones.",
+   "dir": "Dave Meyers",
+   "yt": "tfSS1e3kYeo",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "nike-secret-tournament",
+   "brand": "Nike",
+   "title": "The Secret Tournament (\"The Cage\")",
+   "year": 2002,
+   "cat": "ad",
+   "len": "6:07",
+   "tags": [
+    "football",
+    "world-cup",
+    "stylized",
+    "tournament"
+   ],
+   "note": "Terry Gilliam turns a football ad into a cage-match film with Eric Cantona as ringmaster. Give a sports spot a fictional world and a rulebook.",
+   "dir": "Terry Gilliam",
+   "yt": "RzdgafwmQ34",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "white-stripes-denial-twist",
+   "brand": "The White Stripes",
+   "title": "The Denial Twist",
+   "year": 2005,
+   "cat": "music",
+   "len": "3:34",
+   "tags": [
+    "music-video",
+    "in-camera",
+    "distortion",
+    "gondry"
+   ],
+   "note": "Gondry stretches and warps the band with in-camera tricks and funhouse optics. Practical distortion can feel more alive than digital effects.",
+   "dir": "Michel Gondry",
+   "yt": "y6LuwU3LPLE",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "chemical-brothers-go",
+   "brand": "The Chemical Brothers",
+   "title": "Go (ft. Q-Tip)",
+   "year": 2015,
+   "cat": "music",
+   "len": "3:40",
+   "tags": [
+    "music-video",
+    "choreography",
+    "symmetry",
+    "gondry"
+   ],
+   "note": "Gondry's synchronized dancers move like machine parts through a retro-futurist city. Precise group choreography reads as graphic design in motion.",
+   "dir": "Michel Gondry",
+   "yt": "LO2RPDZkY88",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "kiesza-hideaway",
+   "brand": "Kiesza",
+   "title": "Hideaway",
+   "year": 2014,
+   "cat": "music",
+   "len": "4:35",
+   "tags": [
+    "music-video",
+    "one-take",
+    "dance",
+    "street"
+   ],
+   "note": "One continuous take down a Brooklyn street, built entirely on the performer's dancing. A single unbroken shot plus a magnetic performer is a full video.",
+   "dir": "Rami Afifi",
+   "yt": "ESXgJ9-H-2U",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "adidas-all-in-civilization",
+   "brand": "adidas",
+   "title": "adidas is all in (Justice — \"Civilization\")",
+   "year": 2011,
+   "cat": "ad",
+   "len": "2:00",
+   "tags": [
+    "brand-anthem",
+    "justice",
+    "montage",
+    "sport"
+   ],
+   "note": "Romain Gavras cuts a whole brand world to one Justice track. Let a strong song set the rhythm and the energy of an anthem film.",
+   "dir": "Romain Gavras",
+   "yt": "DCRihtIZZdM",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "peacemaker-s2-intro",
+   "brand": "Peacemaker",
+   "title": "Season 2 — Intro Title Sequence",
+   "year": 2025,
+   "cat": "film",
+   "len": "1:45",
+   "tags": [
+    "title-sequence",
+    "dance",
+    "deadpan",
+    "choreography"
+   ],
+   "note": "The cast performs a completely straight-faced synchronized dance as the opening credits. Absurdity played totally seriously is unforgettable.",
+   "dir": "",
+   "yt": "xS11-GIemXY",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "white-lotus-s3-titles",
+   "brand": "The White Lotus",
+   "title": "Season 3 — Opening Credits",
+   "year": 2025,
+   "cat": "film",
+   "len": "1:55",
+   "tags": [
+    "title-sequence",
+    "illustrated",
+    "foreshadowing",
+    "texture"
+   ],
+   "note": "Painted, ornamental imagery hides clues about the season inside wallpaper-like motifs. A title sequence can quietly foreshadow the whole story.",
+   "dir": "",
+   "yt": "6iRn2sxI9EU",
+   "added": "2026-11-08",
+   "vimeo": ""
+  },
+  {
+   "id": "silence-of-the-lambs-titles",
+   "brand": "The Silence of the Lambs",
+   "title": "Title sequence",
+   "year": 1991,
+   "cat": "film",
+   "len": "5:25",
+   "tags": [
+    "title-sequence",
+    "fog",
+    "tension",
+    "character-intro"
+   ],
+   "note": "Clarice running a misty training course while the credits roll: character, isolation and dread established before a word is spoken.",
+   "dir": "Jonathan Demme",
+   "yt": "AuMu4Hmk_s8",
+   "added": "2026-11-08",
    "vimeo": ""
   }
  ]
