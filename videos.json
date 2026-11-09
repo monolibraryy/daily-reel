@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "videos": [
+  {
+   "id": "se7en-titles",
+   "brand": "Se7en",
+   "title": "Opening credits",
+   "year": 1995,
+   "cat": "film",
+   "len": "2:10",
+   "tags": [
+    "title-sequence",
+    "scratched-type",
+    "dread",
+    "editing"
+   ],
+   "note": "Scratched film, jittery hand-made type and Nine Inch Nails turn the credits into the killer's notebook. Titles can do character work before a single line of dialogue.",
+   "dir": "Kyle Cooper",
+   "added": "2026-11-09",
+   "yt": "pzrA4tT7WVU"
+  },
+  {
+   "id": "pachinko-titles",
+   "brand": "Pachinko",
+   "title": "Opening title sequence",
+   "year": 2022,
+   "cat": "film",
+   "len": "1:36",
+   "tags": [
+    "title-sequence",
+    "dance",
+    "joy",
+    "music-contrast"
+   ],
+   "note": "A heavy multigenerational drama opens with its whole cast dancing in a neon pachinko parlor. Contrast between tone of the show and tone of the titles is what makes it unforgettable.",
+   "dir": "Angus Wall & Nadia Tzuo",
+   "added": "2026-11-09",
+   "yt": "1GgKXR_J-ww"
+  },
+  {
+   "id": "squarespace-keoghan",
+   "brand": "Squarespace",
+   "title": "A Tale As Old As Websites (extended)",
+   "year": 2025,
+   "cat": "ad",
+   "len": "1:53",
+   "tags": [
+    "celebrity",
+    "period",
+    "deadpan",
+    "landscape"
+   ],
+   "note": "Barry Keoghan delivers websites door to door in rural Ireland like a paperboy. A single absurd premise, shot with indie-film restraint, carries the whole spot.",
+   "dir": "Steve Rogers",
+   "added": "2026-11-09",
+   "yt": "u1g_F6Y4PMM"
+  },
+  {
+   "id": "sinners-blues",
+   "brand": "Sinners",
+   "title": "Time-traveling blues scene",
+   "year": 2025,
+   "cat": "film",
+   "len": "5:05",
+   "tags": [
+    "oner",
+    "music",
+    "surreal",
+    "period"
+   ],
+   "note": "One song bends time: past and future musicians join a juke-joint performance in a single flowing move. A blueprint for letting music drive camera and edit.",
+   "dir": "Ryan Coogler",
+   "added": "2026-11-09",
+   "yt": "5OlFxQHdkiY"
+  },
+  {
+   "id": "vertigo-titles",
+   "brand": "Vertigo",
+   "title": "Opening title sequence",
+   "year": 1958,
+   "cat": "film",
+   "len": "3:22",
+   "tags": [
+    "title-sequence",
+    "spirals",
+    "graphic",
+    "classic"
+   ],
+   "note": "Extreme close-ups of an eye dissolve into hypnotic spirals over Bernard Herrmann's score. Proof that a few graphic shapes can set the whole psychological tone.",
+   "dir": "Saul Bass",
+   "added": "2026-11-09",
+   "yt": "4CZfSc6nJ8U"
+  },
+  {
+   "id": "true-detective-titles",
+   "brand": "True Detective",
+   "title": "Season 1 opening credits",
+   "year": 2014,
+   "cat": "film",
+   "len": "1:32",
+   "tags": [
+    "title-sequence",
+    "double-exposure",
+    "southern-gothic",
+    "texture"
+   ],
+   "note": "Double exposures fuse faces with refineries and swamps, so the characters literally contain the landscape. A strong single visual device, repeated with discipline.",
+   "dir": "Patrick Clair",
+   "added": "2026-11-09",
+   "yt": "IrqGjdzWcko"
+  },
+  {
+   "id": "basterds-italian",
+   "brand": "Inglourious Basterds",
+   "title": "Italian accents scene",
+   "year": 2009,
+   "cat": "film",
+   "len": "4:23",
+   "tags": [
+    "tension",
+    "dialogue",
+    "comedy",
+    "tarantino"
+   ],
+   "note": "Comedy and lethal tension in the same breath: bad Italian accents in front of a man who speaks it perfectly. Study how long Tarantino holds the discomfort.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-09",
+   "yt": "Bm3YWNgpgP0"
+  },
+  {
+   "id": "limitless-kick-in",
+   "brand": "Limitless",
+   "title": "The drugs kick in",
+   "year": 2011,
+   "cat": "film",
+   "len": "2:41",
+   "tags": [
+    "color-shift",
+    "vfx",
+    "transformation",
+    "pov"
+   ],
+   "note": "The grade warms and sharpens the moment the pill hits, and text floats off the page. A clean example of showing a mental change purely through image.",
+   "dir": "Neil Burger",
+   "added": "2026-11-09",
+   "yt": "TSyB9MJGmAw"
+  },
+  {
+   "id": "city-of-god-trailer",
+   "brand": "City of God",
+   "title": "Official trailer",
+   "year": 2002,
+   "cat": "film",
+   "len": "1:31",
+   "tags": [
+    "trailer",
+    "handheld",
+    "energy",
+    "favela"
+   ],
+   "note": "Kinetic handheld, freeze frames and a samba-driven cut. The trailer sells pace and attitude before story.",
+   "dir": "Fernando Meirelles",
+   "added": "2026-11-09",
+   "yt": "JhwToYr66J8"
+  },
+  {
+   "id": "big-little-lies-titles",
+   "brand": "Big Little Lies",
+   "title": "Season 1 opening credits",
+   "year": 2017,
+   "cat": "film",
+   "len": "1:31",
+   "tags": [
+    "title-sequence",
+    "coastal",
+    "music",
+    "foreshadowing"
+   ],
+   "note": "Waves, school runs and sideways glances cut to \"Cold Little Heart\". The calm surface hides the threat, exactly like the show.",
+   "dir": "",
+   "added": "2026-11-09",
+   "yt": "rF_1iPFr6Dw"
+  },
   {
    "id": "apple-1984",
    "brand": "Apple",
