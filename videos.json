@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "videos": [
+  {
+   "id": "snatch-caravan",
+   "brand": "Snatch",
+   "title": "Burning caravan scene",
+   "year": 2000,
+   "cat": "film",
+   "len": "6:43",
+   "tags": [
+    "guy-ritchie",
+    "slow-motion",
+    "music",
+    "violence"
+   ],
+   "note": "Slow motion, Oasis-style melancholy over a burning caravan: Ritchie flips a revenge beat into something almost beautiful. Music against action is the whole trick.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-10",
+   "yt": "WcTo_QimQr4"
+  },
+  {
+   "id": "lincoln-bull",
+   "brand": "Lincoln",
+   "title": "MKC \"Bull\"",
+   "year": 2014,
+   "cat": "ad",
+   "len": "1:03",
+   "tags": [
+    "celebrity",
+    "minimal",
+    "deadpan",
+    "refn"
+   ],
+   "note": "Almost more pauses than words: McConaughey sits in the car facing down a bull. Refn proves an ad can be pure mood and still sell the brand.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-10",
+   "yt": "SWz_C8uNY2g"
+  },
+  {
+   "id": "ferragamo-ss21",
+   "brand": "Ferragamo",
+   "title": "SS21 campaign",
+   "year": 2021,
+   "cat": "ad",
+   "len": "1:29",
+   "tags": [
+    "fashion",
+    "auteur",
+    "sensual",
+    "italy"
+   ],
+   "note": "A fashion campaign treated like a Guadagnino film: lingering looks, warm light, no hard sell. Hire a film director and let them shoot their world.",
+   "dir": "Luca Guadagnino",
+   "added": "2026-11-10",
+   "yt": "pObRIP1H4us"
+  },
+  {
+   "id": "social-network-opening",
+   "brand": "The Social Network",
+   "title": "Opening scene",
+   "year": 2010,
+   "cat": "film",
+   "len": "2:58",
+   "tags": [
+    "dialogue",
+    "pace",
+    "fincher",
+    "character-intro"
+   ],
+   "note": "A rapid-fire breakup conversation sets up the entire character in five minutes. Sorkin's rhythm plus Fincher's precise coverage.",
+   "dir": "David Fincher",
+   "added": "2026-11-10",
+   "yt": "90REkEl9O9Q"
+  },
+  {
+   "id": "american-psycho-cards",
+   "brand": "American Psycho",
+   "title": "Business cards scene",
+   "year": 2000,
+   "cat": "film",
+   "len": "5:30",
+   "tags": [
+    "satire",
+    "close-up",
+    "tension",
+    "status"
+   ],
+   "note": "Grown men sweat over typefaces and paper stock. Extreme close-ups and silence make something trivial feel murderous.",
+   "dir": "Mary Harron",
+   "added": "2026-11-10",
+   "yt": "rC0HFwnK_5E"
+  },
+  {
+   "id": "strangelove-titles",
+   "brand": "Dr. Strangelove",
+   "title": "Opening title sequence",
+   "year": 1964,
+   "cat": "film",
+   "len": "3:26",
+   "tags": [
+    "title-sequence",
+    "hand-lettered",
+    "satire",
+    "classic"
+   ],
+   "note": "Hand-lettered credits over B-52s refuelling mid-air to \"Try a Little Tenderness\". Loose, imperfect type set the satirical tone and inspired a thousand hand-drawn sequences.",
+   "dir": "Pablo Ferro",
+   "added": "2026-11-10",
+   "yt": "e5hX0RdD34s"
+  },
+  {
+   "id": "la-haine-gallery",
+   "brand": "La Haine",
+   "title": "Art gallery scene",
+   "year": 1995,
+   "cat": "film",
+   "len": "4:42",
+   "tags": [
+    "black-and-white",
+    "banlieue",
+    "tension",
+    "comedy"
+   ],
+   "note": "Three kids from the estates crash a Paris gallery opening. Class clash played for awkward comedy that turns sour, shot in crisp black and white.",
+   "dir": "Mathieu Kassovitz",
+   "added": "2026-11-10",
+   "yt": "uNWajYDbTqI"
+  },
+  {
+   "id": "reservoir-dogs-mr-pink",
+   "brand": "Reservoir Dogs",
+   "title": "Naming Mr. Pink",
+   "year": 1992,
+   "cat": "film",
+   "len": "3:09",
+   "tags": [
+    "dialogue",
+    "tarantino",
+    "ensemble",
+    "comedy"
+   ],
+   "note": "A crime crew argues about code names like it's life or death. Tarantino builds character through bickering, not exposition.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-10",
+   "yt": "nj43p_qMTgs"
+  },
+  {
+   "id": "blade-runner-2099-trailer",
+   "brand": "Blade Runner 2099",
+   "title": "Final trailer",
+   "year": 2026,
+   "cat": "promo",
+   "len": "2:33",
+   "tags": [
+    "trailer",
+    "neon",
+    "sci-fi",
+    "atmosphere"
+   ],
+   "note": "Rain, neon and slow menace carry the franchise look into a new series. Study how the cut leans on texture and sound rather than plot.",
+   "dir": "",
+   "added": "2026-11-10",
+   "yt": "1d4x_eSdqNc"
+  },
+  {
+   "id": "sicario-night-raid",
+   "brand": "Sicario: Day of the Soldado",
+   "title": "Night raid scene",
+   "year": 2018,
+   "cat": "film",
+   "len": "2:01",
+   "tags": [
+    "night-vision",
+    "tension",
+    "action",
+    "sound-design"
+   ],
+   "note": "A night raid told through thermal and night-vision POV with almost no music. Restraint and sound design do the work.",
+   "dir": "Stefano Sollima",
+   "added": "2026-11-10",
+   "yt": "YOUt-qq-snc"
+  },
   {
    "id": "se7en-titles",
    "brand": "Se7en",
