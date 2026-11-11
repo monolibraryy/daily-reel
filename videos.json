@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "videos": [
+  {
+   "id": "goodfellas-copacabana",
+   "brand": "Goodfellas",
+   "title": "Copacabana oner",
+   "year": 1990,
+   "cat": "film",
+   "len": "3:02",
+   "tags": [
+    "oner",
+    "steadicam",
+    "seduction",
+    "scorsese"
+   ],
+   "note": "One unbroken Steadicam move through the kitchen into the club. The camera itself shows the power Henry is selling to Karen.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-11",
+   "yt": "aBtUsreh-8w"
+  },
+  {
+   "id": "pulp-fiction-butch-vincent",
+   "brand": "Pulp Fiction",
+   "title": "Butch meets Vincent",
+   "year": 1994,
+   "cat": "film",
+   "len": "2:43",
+   "tags": [
+    "tension",
+    "dialogue",
+    "tarantino",
+    "staging"
+   ],
+   "note": "Two men size each other up at a bar with barely a line spoken. Tarantino stages menace through framing and silence.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-11",
+   "yt": "xHO6nBc4YFU"
+  },
+  {
+   "id": "zodiac-timelapse",
+   "brand": "Zodiac",
+   "title": "Transamerica building timelapse",
+   "year": 2007,
+   "cat": "film",
+   "len": "3:41",
+   "tags": [
+    "timelapse",
+    "vfx",
+    "time-jump",
+    "fincher"
+   ],
+   "note": "Fincher marks the passage of years with the Transamerica Pyramid rising in timelapse over a black screen. A time jump turned into a single striking image.",
+   "dir": "David Fincher",
+   "added": "2026-11-11",
+   "yt": "5rKU-lVQp2s"
+  },
+  {
+   "id": "ouatih-trailer",
+   "brand": "Once Upon a Time in Hollywood",
+   "title": "Official trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "2:34",
+   "tags": [
+    "trailer",
+    "period",
+    "tarantino",
+    "1969"
+   ],
+   "note": "Period radio, sun-drenched LA and a cast introduced like movie stars. A trailer that sells a mood and an era more than a plot.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-11",
+   "yt": "4EksMw2W7y0"
+  },
+  {
+   "id": "past-lives-trailer",
+   "brand": "Past Lives",
+   "title": "Official trailer",
+   "year": 2023,
+   "cat": "promo",
+   "len": "2:25",
+   "tags": [
+    "trailer",
+    "a24",
+    "romance",
+    "restraint"
+   ],
+   "note": "Quiet, patient and built on looks rather than lines. Proof that a trailer can be gentle and still land hard.",
+   "dir": "Celine Song",
+   "added": "2026-11-11",
+   "yt": "kA244xewjcI"
+  },
+  {
+   "id": "together-trailer",
+   "brand": "Together",
+   "title": "Official trailer",
+   "year": 2025,
+   "cat": "promo",
+   "len": "2:24",
+   "tags": [
+    "trailer",
+    "neon",
+    "body-horror",
+    "couple"
+   ],
+   "note": "A relationship drama that turns into body horror, cut with escalating dread. NEON trailer craft at its sharpest.",
+   "dir": "Michael Shanks",
+   "added": "2026-11-11",
+   "yt": "v4Xu-jxRG5c"
+  },
+  {
+   "id": "oldboy-corridor",
+   "brand": "Oldboy",
+   "title": "Corridor fight",
+   "year": 2003,
+   "cat": "film",
+   "len": "3:43",
+   "tags": [
+    "oner",
+    "side-scroll",
+    "fight",
+    "park-chan-wook"
+   ],
+   "note": "One side-scrolling take down a corridor, one man with a hammer against dozens. Exhaustion is part of the choreography.",
+   "dir": "Park Chan-wook",
+   "added": "2026-11-11",
+   "yt": "BCZVpZ2Vr1M"
+  },
+  {
+   "id": "taxi-driver-ending",
+   "brand": "Taxi Driver",
+   "title": "Ending scene",
+   "year": 1976,
+   "cat": "film",
+   "len": "5:20",
+   "tags": [
+    "ambiguity",
+    "mirror",
+    "scorsese",
+    "night"
+   ],
+   "note": "The famous ambiguous ending: Travis in the cab, a glance in the rearview mirror. A few seconds that re-frame everything before them.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-11",
+   "yt": "ZW8bO0l_dH0"
+  },
+  {
+   "id": "wolf-sell-me-the-pen",
+   "brand": "The Wolf of Wall Street",
+   "title": "\"Sell me this pen\" / recruiting scene",
+   "year": 2013,
+   "cat": "film",
+   "len": "3:29",
+   "tags": [
+    "pitch",
+    "energy",
+    "comedy",
+    "scorsese"
+   ],
+   "note": "Jordan recruits his friends with a pitch demonstration that is half sermon, half comedy. Energy and rhythm as the whole sell.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-11",
+   "yt": "XErYzV4X_OQ"
+  },
+  {
+   "id": "sentimental-value-trailer",
+   "brand": "Sentimental Value",
+   "title": "Official trailer #2",
+   "year": 2025,
+   "cat": "promo",
+   "len": "1:39",
+   "tags": [
+    "trailer",
+    "mubi",
+    "family",
+    "drama"
+   ],
+   "note": "A family drama trailer built on faces and a house full of history. Restrained cutting lets the performances sell it.",
+   "dir": "Joachim Trier",
+   "added": "2026-11-11",
+   "yt": "AkoX8Cnp68E"
+  },
   {
    "id": "snatch-caravan",
    "brand": "Snatch",
