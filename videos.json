@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "videos": [
+  {
+   "id": "good-time-robbery",
+   "brand": "Good Time",
+   "title": "Bank robbery",
+   "year": 2017,
+   "cat": "film",
+   "len": "6:15",
+   "tags": [
+    "safdie",
+    "neon",
+    "tension",
+    "handheld"
+   ],
+   "note": "Masks, a note slid across the counter and a getaway that goes wrong in seconds. Tight close-ups and a pulsing synth score keep the panic in your chest.",
+   "dir": "Josh & Benny Safdie",
+   "added": "2026-11-12",
+   "yt": "SfAceaRVeN4"
+  },
+  {
+   "id": "no-country-gas-station",
+   "brand": "No Country for Old Men",
+   "title": "One-on-one with Chigurh",
+   "year": 2007,
+   "cat": "film",
+   "len": "5:00",
+   "tags": [
+    "dialogue",
+    "menace",
+    "coens",
+    "silence"
+   ],
+   "note": "An ordinary exchange becomes life or death in a few lines. No score, just pauses, and the threat lives entirely in performance.",
+   "dir": "Joel & Ethan Coen",
+   "added": "2026-11-12",
+   "yt": "0epuHFZYow4"
+  },
+  {
+   "id": "boogie-nights-pool",
+   "brand": "Boogie Nights",
+   "title": "Pool party oner",
+   "year": 1997,
+   "cat": "film",
+   "len": "3:31",
+   "tags": [
+    "oner",
+    "steadicam",
+    "ensemble",
+    "pta"
+   ],
+   "note": "The camera drifts through a 70s pool party and dives underwater with a guest. One long move introduces a whole world of characters.",
+   "dir": "Paul Thomas Anderson",
+   "added": "2026-11-12",
+   "yt": "U-vmdBKX40I"
+  },
+  {
+   "id": "in-the-mood-for-love-trailer",
+   "brand": "In the Mood for Love",
+   "title": "20th anniversary trailer",
+   "year": 2000,
+   "cat": "promo",
+   "len": "1:25",
+   "tags": [
+    "trailer",
+    "color",
+    "longing",
+    "wong-kar-wai"
+   ],
+   "note": "Saturated reds, slow motion and that waltz. Proof a trailer can sell pure longing without explaining the story.",
+   "dir": "Wong Kar-wai",
+   "added": "2026-11-12",
+   "yt": "m8GuedsQnWQ"
+  },
+  {
+   "id": "collateral-one-question",
+   "brand": "Collateral",
+   "title": "One question away",
+   "year": 2004,
+   "cat": "film",
+   "len": "2:36",
+   "tags": [
+    "night",
+    "digital",
+    "tension",
+    "michael-mann"
+   ],
+   "note": "Night-time LA on early digital cameras and a cold, calm Tom Cruise. Mann turns a simple exchange into dread.",
+   "dir": "Michael Mann",
+   "added": "2026-11-12",
+   "yt": "wDZyu8jYw90"
+  },
+  {
+   "id": "sicario-land-of-wolves",
+   "brand": "Sicario",
+   "title": "\"A land of wolves\"",
+   "year": 2015,
+   "cat": "film",
+   "len": "3:12",
+   "tags": [
+    "dialogue",
+    "menace",
+    "villeneuve",
+    "thriller"
+   ],
+   "note": "A quiet line delivered in shadow says more than any action beat. Villeneuve and Deakins let silence and framing carry the threat.",
+   "dir": "Denis Villeneuve",
+   "added": "2026-11-12",
+   "yt": "h4HRKN5CZFo"
+  },
+  {
+   "id": "waves-trailer",
+   "brand": "Waves",
+   "title": "Official trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "1:54",
+   "tags": [
+    "trailer",
+    "a24",
+    "color",
+    "music"
+   ],
+   "note": "Spinning cameras, neon colour and a wall-to-wall soundtrack. A trailer cut like a music video that shifts tone halfway through.",
+   "dir": "Trey Edward Shults",
+   "added": "2026-11-12",
+   "yt": "V5z3cr8AB5g"
+  },
+  {
+   "id": "rocknrolla-smoking-kills",
+   "brand": "RocknRolla",
+   "title": "\"Smoking kills\": Johnny Quid",
+   "year": 2008,
+   "cat": "film",
+   "len": "3:04",
+   "tags": [
+    "guy-ritchie",
+    "monologue",
+    "rockstar",
+    "attitude"
+   ],
+   "note": "Johnny Quid's swaggering monologue: Ritchie dialogue at its most quotable, delivered with total confidence.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-12",
+   "yt": "tmCqZGSc_OE"
+  },
+  {
+   "id": "fight-club-opening",
+   "brand": "Fight Club",
+   "title": "Opening sequence",
+   "year": 1999,
+   "cat": "film",
+   "len": "1:39",
+   "tags": [
+    "title-sequence",
+    "cgi",
+    "inside-the-brain",
+    "fincher"
+   ],
+   "note": "The camera pulls out from inside the narrator's brain, along neurons, to a gun in his mouth. A CG title sequence that is also the first story beat.",
+   "dir": "David Fincher",
+   "added": "2026-11-12",
+   "yt": "Ze9-wg9k7AU"
+  },
+  {
+   "id": "heat-diner-to-driver",
+   "brand": "Heat",
+   "title": "From diner to driver",
+   "year": 1995,
+   "cat": "film",
+   "len": "3:16",
+   "tags": [
+    "crime",
+    "dialogue",
+    "michael-mann",
+    "cool"
+   ],
+   "note": "A crew's quiet professionalism told through a diner meeting and a drive. Mann makes restraint look cool.",
+   "dir": "Michael Mann",
+   "added": "2026-11-12",
+   "yt": "-yhvUKd0JdQ"
+  },
   {
    "id": "goodfellas-copacabana",
    "brand": "Goodfellas",
