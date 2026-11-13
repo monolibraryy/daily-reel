@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "videos": [
+  {
+   "id": "uncut-gems-trailer",
+   "brand": "Uncut Gems",
+   "title": "Official trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "2:32",
+   "tags": [
+    "trailer",
+    "a24",
+    "anxiety",
+    "safdie"
+   ],
+   "note": "Wall-to-wall noise, close-ups and Oneohtrix synths. The trailer makes you feel Howard's panic, which is exactly the film's pitch.",
+   "dir": "Josh & Benny Safdie",
+   "added": "2026-11-13",
+   "yt": "vTfJp2Ts9X8"
+  },
+  {
+   "id": "spring-breakers-trailer",
+   "brand": "Spring Breakers",
+   "title": "Official trailer",
+   "year": 2012,
+   "cat": "promo",
+   "len": "2:13",
+   "tags": [
+    "trailer",
+    "neon",
+    "dreamlike",
+    "korine"
+   ],
+   "note": "Candy-coloured neon and dream logic. It sells a mood that's half party and half nightmare.",
+   "dir": "Harmony Korine",
+   "added": "2026-11-13",
+   "yt": "imDML4om8z8"
+  },
+  {
+   "id": "drive-elevator",
+   "brand": "Drive",
+   "title": "Elevator scene",
+   "year": 2011,
+   "cat": "film",
+   "len": "5:37",
+   "tags": [
+    "slow-motion",
+    "lighting",
+    "violence",
+    "refn"
+   ],
+   "note": "The lights dim to a single glow for one kiss, then the scene snaps into brutal violence. A whole relationship turns in one confined space.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-13",
+   "yt": "iaYFdMO2Qw0"
+  },
+  {
+   "id": "uncle-boat-chase",
+   "brand": "The Man from U.N.C.L.E.",
+   "title": "Boat chase",
+   "year": 2015,
+   "cat": "film",
+   "len": "4:18",
+   "tags": [
+    "guy-ritchie",
+    "music-contrast",
+    "deadpan",
+    "period"
+   ],
+   "note": "While the boat chase rages in the background, Solo sits in a truck eating a sandwich to an Italian love song. Ritchie at his coolest: action seen from a deadpan side angle.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-13",
+   "yt": "MxZ5VQVHMoc"
+  },
+  {
+   "id": "carhartt-nike-fw26",
+   "brand": "Carhartt WIP × Nike",
+   "title": "F/W26 campaign film",
+   "year": 2026,
+   "cat": "ad",
+   "len": "0:52",
+   "tags": [
+    "fashion",
+    "collab",
+    "streetwear",
+    "campaign"
+   ],
+   "note": "A tight streetwear collab film. It shows how two brands share a frame without either one shouting over the other.",
+   "dir": "",
+   "added": "2026-11-13",
+   "yt": "wOd6Y7VI34c"
+  },
+  {
+   "id": "apple-the-dreamer",
+   "brand": "Apple",
+   "title": "\"The Dreamer\" holiday film",
+   "year": 2026,
+   "cat": "ad",
+   "len": "3:54",
+   "tags": [
+    "holiday",
+    "storytelling",
+    "emotional",
+    "product"
+   ],
+   "note": "Apple's annual holiday short: a small human story where the product is just the tool for the dream. A masterclass in letting the emotion sell.",
+   "dir": "",
+   "added": "2026-11-13",
+   "yt": "Sp54mxnWjUM"
+  },
+  {
+   "id": "the-blaze-territory",
+   "brand": "The Blaze",
+   "title": "Territory",
+   "year": 2017,
+   "cat": "music",
+   "len": "5:38",
+   "tags": [
+    "music-video",
+    "masculinity",
+    "algiers",
+    "intimate"
+   ],
+   "note": "A young man's homecoming in Algiers: rooftops, family and raw emotion. It won the Film Craft Grand Prix at Cannes Lions, and the band directed it themselves.",
+   "dir": "The Blaze",
+   "added": "2026-11-13",
+   "yt": "54fea7wuV6s"
+  },
+  {
+   "id": "heineken-open-your-world",
+   "brand": "Heineken",
+   "title": "Open Your World (long version)",
+   "year": 2011,
+   "cat": "ad",
+   "len": "3:05",
+   "tags": [
+    "one-take-feel",
+    "charisma",
+    "comedy",
+    "music"
+   ],
+   "note": "The Heineken Legend charms his way through an impossibly stylish night, to The Asteroids Galaxy Tour. Endless set pieces carried by one charismatic lead.",
+   "dir": "Fredrik Bond",
+   "added": "2026-11-13",
+   "yt": "AIhNP9Gv9c8"
+  },
+  {
+   "id": "geico-unskippable",
+   "brand": "GEICO",
+   "title": "Unskippable: Family",
+   "year": 2015,
+   "cat": "ad",
+   "len": "1:11",
+   "tags": [
+    "pre-roll",
+    "comedy",
+    "freeze",
+    "format-hack"
+   ],
+   "note": "The pitch is delivered before the skip button appears, then the family freezes while the dog eats dinner. It hacked the pre-roll format and won the Film Grand Prix at Cannes.",
+   "dir": "Terri Timely",
+   "added": "2026-11-13",
+   "yt": "zKRE9cQi7_I"
+  },
+  {
+   "id": "dexter-titles",
+   "brand": "Dexter",
+   "title": "\"Morning Routine\" title sequence",
+   "year": 2006,
+   "cat": "film",
+   "len": "1:57",
+   "tags": [
+    "title-sequence",
+    "macro",
+    "mundane-menace",
+    "character"
+   ],
+   "note": "Shaving, slicing fruit, tying shoelaces, all in extreme close-up so they read as violence. A mundane routine becomes a portrait of a killer.",
+   "dir": "Eric Anderson",
+   "added": "2026-11-13",
+   "yt": "ej8-Rqo-VT4"
+  },
   {
    "id": "good-time-robbery",
    "brand": "Good Time",
