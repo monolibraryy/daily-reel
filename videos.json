@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "videos": [
+  {
+   "id": "goldeneye-titles",
+   "brand": "GoldenEye",
+   "title": "Opening title sequence",
+   "year": 1995,
+   "cat": "film",
+   "len": "2:49",
+   "tags": [
+    "title-sequence",
+    "bond",
+    "silhouettes",
+    "symbolism"
+   ],
+   "note": "Silhouettes, guns and toppling Soviet statues: the titles tell you the Cold War is over before the film says a word. Bond titles as a genre of their own.",
+   "dir": "Daniel Kleinman",
+   "added": "2026-11-14",
+   "yt": "E11P2FmC6-A"
+  },
+  {
+   "id": "the-fall-titles",
+   "brand": "The Fall",
+   "title": "Opening titles",
+   "year": 2006,
+   "cat": "film",
+   "len": "2:48",
+   "tags": [
+    "title-sequence",
+    "black-and-white",
+    "slow-motion",
+    "beethoven"
+   ],
+   "note": "Slow-motion black-and-white images over Beethoven's Seventh. Tarsem builds a whole tragedy in a few painterly frames before the story starts.",
+   "dir": "Tarsem Singh",
+   "added": "2026-11-14",
+   "yt": "QhARR-zmTCE"
+  },
+  {
+   "id": "mad-world-titles",
+   "brand": "It's a Mad, Mad, Mad, Mad World",
+   "title": "Title sequence",
+   "year": 1963,
+   "cat": "film",
+   "len": "4:12",
+   "tags": [
+    "title-sequence",
+    "animation",
+    "comedy",
+    "saul-bass"
+   ],
+   "note": "A spinning globe turns into one gag after another: Saul Bass animates the whole premise as slapstick.",
+   "dir": "Saul Bass",
+   "added": "2026-11-14",
+   "yt": "s1A7bJD3atk"
+  },
+  {
+   "id": "royal-tenenbaums-trailer",
+   "brand": "The Royal Tenenbaums",
+   "title": "Trailer",
+   "year": 2001,
+   "cat": "promo",
+   "len": "1:58",
+   "tags": [
+    "trailer",
+    "symmetry",
+    "ensemble",
+    "wes-anderson"
+   ],
+   "note": "Character portraits introduced one by one, Wes Anderson style. A blueprint for selling an ensemble cast.",
+   "dir": "Wes Anderson",
+   "added": "2026-11-14",
+   "yt": "EJBqsVFx84M"
+  },
+  {
+   "id": "baby-driver-trailer",
+   "brand": "Baby Driver",
+   "title": "Official trailer",
+   "year": 2017,
+   "cat": "promo",
+   "len": "2:50",
+   "tags": [
+    "trailer",
+    "music-sync",
+    "car-chase",
+    "edgar-wright"
+   ],
+   "note": "Every cut lands on the beat. The trailer sells the film's core idea: action choreographed to a playlist.",
+   "dir": "Edgar Wright",
+   "added": "2026-11-14",
+   "yt": "zTvJJnoWIPk"
+  },
+  {
+   "id": "mean-streets-guts",
+   "brand": "Mean Streets",
+   "title": "\"You don't have the guts!\"",
+   "year": 1973,
+   "cat": "film",
+   "len": "4:34",
+   "tags": [
+    "dialogue",
+    "street",
+    "scorsese",
+    "volatile"
+   ],
+   "note": "Early Scorsese energy: handheld, volatile and funny until it isn't. The raw template for his later crime films.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-14",
+   "yt": "5CxY5MqkkV0"
+  },
+  {
+   "id": "kill-bill-pasadena",
+   "brand": "Kill Bill: Vol. 1",
+   "title": "Pasadena kitchen fight",
+   "year": 2003,
+   "cat": "film",
+   "len": "3:42",
+   "tags": [
+    "fight",
+    "suburban",
+    "tarantino",
+    "contrast"
+   ],
+   "note": "A brutal knife fight in a suburban kitchen that stops dead when a school bus pulls up. Tarantino gets his laugh from the contrast.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-14",
+   "yt": "yL4xB9Hpj5o"
+  },
+  {
+   "id": "the-game-opening",
+   "brand": "The Game",
+   "title": "Opening sequence",
+   "year": 1997,
+   "cat": "film",
+   "len": "1:48",
+   "tags": [
+    "home-movie",
+    "texture",
+    "title-sequence",
+    "fincher"
+   ],
+   "note": "Grainy home-movie footage of a privileged childhood sets up the whole psychology of the film. Texture used as backstory.",
+   "dir": "David Fincher",
+   "added": "2026-11-14",
+   "yt": "VRPO8-_fB8g"
+  },
+  {
+   "id": "chemical-brothers-wide-open",
+   "brand": "The Chemical Brothers",
+   "title": "Wide Open (ft. Beck)",
+   "year": 2016,
+   "cat": "music",
+   "len": "5:32",
+   "tags": [
+    "music-video",
+    "oner",
+    "vfx",
+    "dance"
+   ],
+   "note": "One continuous take: a dancer's body slowly turns into a transparent 3D mesh as she moves. VFX in service of emotion, not spectacle.",
+   "dir": "Dom & Nic",
+   "added": "2026-11-14",
+   "yt": "BC2dRkm8ATU"
+  },
+  {
+   "id": "batman-iceberg-lounge",
+   "brand": "The Batman",
+   "title": "Iceberg Lounge fight",
+   "year": 2022,
+   "cat": "film",
+   "len": "4:27",
+   "tags": [
+    "fight",
+    "strobe",
+    "club",
+    "matt-reeves"
+   ],
+   "note": "A club fight lit by strobes and red light. The heavy, grounded choreography lets you feel every hit.",
+   "dir": "Matt Reeves",
+   "added": "2026-11-14",
+   "yt": "dg_r4dFnlu0"
+  },
   {
    "id": "uncut-gems-trailer",
    "brand": "Uncut Gems",
