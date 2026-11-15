@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "videos": [
+  {
+   "id": "bring-her-back-trailer",
+   "brand": "Bring Her Back",
+   "title": "Official trailer",
+   "year": 2025,
+   "cat": "promo",
+   "len": "1:40",
+   "tags": [
+    "trailer",
+    "a24",
+    "horror",
+    "dread"
+   ],
+   "note": "Grief-soaked horror cut with long, unbearable holds and sudden violence. A24 trailer craft built to unsettle rather than to explain.",
+   "dir": "Danny & Michael Philippou",
+   "added": "2026-11-15",
+   "yt": "kBskrYZfhw8"
+  },
+  {
+   "id": "high-life-trailer",
+   "brand": "High Life",
+   "title": "Official trailer",
+   "year": 2018,
+   "cat": "promo",
+   "len": "2:24",
+   "tags": [
+    "trailer",
+    "a24",
+    "sci-fi",
+    "austere"
+   ],
+   "note": "Sci-fi stripped down to bodies, silence and a box in space. Claire Denis's strangeness, sold through mood alone.",
+   "dir": "Claire Denis",
+   "added": "2026-11-15",
+   "yt": "AtOwfo1ypOw"
+  },
+  {
+   "id": "fear-loathing-pink-room",
+   "brand": "Fear and Loathing in Las Vegas",
+   "title": "Pink hotel room scene",
+   "year": 1998,
+   "cat": "film",
+   "len": "6:01",
+   "tags": [
+    "wide-angle",
+    "surreal",
+    "gilliam",
+    "chaos"
+   ],
+   "note": "Wide-angle lenses, a lurid set and two unhinged performances. Gilliam makes the camera itself feel high.",
+   "dir": "Terry Gilliam",
+   "added": "2026-11-15",
+   "yt": "yMzKaEdPPdk"
+  },
+  {
+   "id": "westworld-titles",
+   "brand": "Westworld",
+   "title": "Opening credits",
+   "year": 2016,
+   "cat": "film",
+   "len": "1:45",
+   "tags": [
+    "title-sequence",
+    "3d-print",
+    "white",
+    "piano"
+   ],
+   "note": "Bone-white robots being 3D-printed to a player-piano theme. Clean CG with one clear idea: making humans as machines.",
+   "dir": "Patrick Clair",
+   "added": "2026-11-15",
+   "yt": "QRi3ULhyQq0"
+  },
+  {
+   "id": "ema-trailer",
+   "brand": "Ema",
+   "title": "Official trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "1:40",
+   "tags": [
+    "trailer",
+    "mubi",
+    "dance",
+    "fire"
+   ],
+   "note": "Reggaeton dance, flamethrowers and neon in Valparaíso. A trailer that moves like a music video.",
+   "dir": "Pablo Larraín",
+   "added": "2026-11-15",
+   "yt": "sdOVxka8CO8"
+  },
+  {
+   "id": "fifa-23-worlds-game",
+   "brand": "FIFA 23",
+   "title": "\"The World's Game\" launch trailer",
+   "year": 2022,
+   "cat": "promo",
+   "len": "2:30",
+   "tags": [
+    "launch-trailer",
+    "football",
+    "montage",
+    "energy"
+   ],
+   "note": "A FIFA launch trailer in the \"Champions Rise\" tradition: stars, streets and stadiums cut into one global anthem.",
+   "dir": "",
+   "added": "2026-11-15",
+   "yt": "ScM5bdLma2g"
+  },
+  {
+   "id": "game-of-thrones-titles",
+   "brand": "Game of Thrones",
+   "title": "Opening credits",
+   "year": 2011,
+   "cat": "film",
+   "len": "1:42",
+   "tags": [
+    "title-sequence",
+    "clockwork",
+    "map",
+    "3d"
+   ],
+   "note": "A clockwork map unfolds city by city. The titles teach you the geography of the story while they play.",
+   "dir": "Angus Wall",
+   "added": "2026-11-15",
+   "yt": "s7L2PVdrb_8"
+  },
+  {
+   "id": "severance-s2-titles",
+   "brand": "Severance",
+   "title": "Season 2 opening title sequence",
+   "year": 2025,
+   "cat": "film",
+   "len": "1:32",
+   "tags": [
+    "title-sequence",
+    "surreal",
+    "cg",
+    "psychological"
+   ],
+   "note": "Mark's soft CG double is pulled, stretched and split. The Season 2 titles push the original's body-horror metaphor further.",
+   "dir": "Oliver Latta",
+   "added": "2026-11-15",
+   "yt": "uKT5bwMkOAw"
+  },
+  {
+   "id": "her-private-hell-teaser",
+   "brand": "Her Private Hell",
+   "title": "Official teaser",
+   "year": 2026,
+   "cat": "promo",
+   "len": "1:09",
+   "tags": [
+    "trailer",
+    "neon",
+    "refn",
+    "neon-light"
+   ],
+   "note": "Refn's colour-soaked, slow menace in under a minute and a half. A teaser built purely on atmosphere.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-15",
+   "yt": "iWqST_E9u_Q"
+  },
+  {
+   "id": "pi-trailer",
+   "brand": "Pi",
+   "title": "Official trailer",
+   "year": 1998,
+   "cat": "promo",
+   "len": "0:57",
+   "tags": [
+    "trailer",
+    "a24",
+    "black-and-white",
+    "paranoia"
+   ],
+   "note": "High-contrast black and white, hip-hop montage and paranoid voiceover. The debut that announced Aronofsky's style.",
+   "dir": "Darren Aronofsky",
+   "added": "2026-11-15",
+   "yt": "yRjkQT9xLZs"
+  },
   {
    "id": "goldeneye-titles",
    "brand": "GoldenEye",
