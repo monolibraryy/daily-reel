@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "videos": [
+  {
+   "id": "the-bear-sundae-montage",
+   "brand": "The Bear",
+   "title": "Sydney's food montage (\"Sundae\")",
+   "year": 2023,
+   "cat": "film",
+   "len": "1:35",
+   "tags": [
+    "montage",
+    "chicago",
+    "food",
+    "handheld"
+   ],
+   "note": "Sydney eats her way across Chicago in a dreamy, music-driven montage. A whole episode's emotion compressed into a sequence of plates and faces.",
+   "dir": "Joanna Calo",
+   "added": "2026-11-16",
+   "yt": "qvhjogyoYPw"
+  },
+  {
+   "id": "quantum-of-solace-titles",
+   "brand": "Quantum of Solace",
+   "title": "Opening title sequence",
+   "year": 2008,
+   "cat": "film",
+   "len": "3:19",
+   "tags": [
+    "title-sequence",
+    "bond",
+    "desert",
+    "typography"
+   ],
+   "note": "Bond in desert sands, silhouettes made of dunes and type. A modern, graphic take on the Bond title tradition.",
+   "dir": "MK12",
+   "added": "2026-11-16",
+   "yt": "BFwmQZWdOSY"
+  },
+  {
+   "id": "away-travel-changed-me",
+   "brand": "Away",
+   "title": "Travel Changed Me",
+   "year": 2025,
+   "cat": "ad",
+   "len": "1:32",
+   "tags": [
+    "35mm",
+    "dreamlike",
+    "bangkok",
+    "fashion-director"
+   ],
+   "note": "A luggage ad without destination postcards: a woman's dreamlike Bangkok night shot on 35mm. Travel sold as personal transformation.",
+   "dir": "Jordan Hemingway & FKA twigs",
+   "added": "2026-11-16",
+   "yt": "xW_jGd5DV_4"
+  },
+  {
+   "id": "rushmore-trailer",
+   "brand": "Rushmore",
+   "title": "Trailer",
+   "year": 1998,
+   "cat": "promo",
+   "len": "2:30",
+   "tags": [
+    "trailer",
+    "wes-anderson",
+    "comedy",
+    "character"
+   ],
+   "note": "Max Fischer's endless club memberships cut to British Invasion rock. The trailer that defined the Wes Anderson tone.",
+   "dir": "Wes Anderson",
+   "added": "2026-11-16",
+   "yt": "8zVG8aBglVA"
+  },
+  {
+   "id": "shogun-titles",
+   "brand": "Shōgun",
+   "title": "Official title sequence",
+   "year": 2024,
+   "cat": "film",
+   "len": "1:39",
+   "tags": [
+    "title-sequence",
+    "ink",
+    "texture",
+    "period"
+   ],
+   "note": "Ink, smoke and lacquer textures set the tone of feudal Japan. Restrained, elegant motion design.",
+   "dir": "",
+   "added": "2026-11-16",
+   "yt": "LX8BOLwDPfU"
+  },
+  {
+   "id": "snatch-shrinking-balls",
+   "brand": "Snatch",
+   "title": "\"Shrinking balls\"",
+   "year": 2000,
+   "cat": "film",
+   "len": "2:43",
+   "tags": [
+    "guy-ritchie",
+    "freeze-frame",
+    "comedy",
+    "editing"
+   ],
+   "note": "Ritchie's whip-fast editing, freeze frames and banter in one tight scene. Pure Snatch energy.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-16",
+   "yt": "1crhwQPKr7w"
+  },
+  {
+   "id": "lux-aeterna-trailer",
+   "brand": "Lux Æterna",
+   "title": "Official trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "1:25",
+   "tags": [
+    "trailer",
+    "strobe",
+    "split-screen",
+    "noe"
+   ],
+   "note": "Split screens and violent strobes from Gaspar Noé. A trailer that feels like a seizure-warning art piece.",
+   "dir": "Gaspar Noé",
+   "added": "2026-11-16",
+   "yt": "4khCkCyENkI"
+  },
+  {
+   "id": "watchmen-opening",
+   "brand": "Watchmen",
+   "title": "Opening credits",
+   "year": 2009,
+   "cat": "film",
+   "len": "5:34",
+   "tags": [
+    "title-sequence",
+    "alternate-history",
+    "slow-motion",
+    "dylan"
+   ],
+   "note": "Decades of alternate history in slow-motion tableaux to \"The Times They Are a-Changin'\". World-building as a montage.",
+   "dir": "Zack Snyder",
+   "added": "2026-11-16",
+   "yt": "h24D87SqaLQ"
+  },
+  {
+   "id": "chinatown-titles",
+   "brand": "Chinatown",
+   "title": "Title sequence",
+   "year": 1974,
+   "cat": "film",
+   "len": "2:13",
+   "tags": [
+    "title-sequence",
+    "typography",
+    "sepia",
+    "noir"
+   ],
+   "note": "Sepia moiré textures and elegant type with a lone trumpet. Classic noir atmosphere set by typography alone.",
+   "dir": "Wayne Fitzgerald",
+   "added": "2026-11-16",
+   "yt": "Y_VFVkoIqYQ"
+  },
+  {
+   "id": "the-thing-titles",
+   "brand": "The Thing",
+   "title": "Title sequence",
+   "year": 1982,
+   "cat": "film",
+   "len": "2:31",
+   "tags": [
+    "title-sequence",
+    "burning-type",
+    "horror",
+    "carpenter"
+   ],
+   "note": "A UFO streaks toward Earth, then the title burns through the black. Minimal and terrifying.",
+   "dir": "John Carpenter",
+   "added": "2026-11-16",
+   "yt": "m8ShlmUBTdA"
+  },
   {
    "id": "bring-her-back-trailer",
    "brand": "Bring Her Back",
