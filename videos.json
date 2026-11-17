@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "videos": [
+  {
+   "id": "gucci-ha-ha-ha",
+   "brand": "Gucci",
+   "title": "HA HA HA campaign",
+   "year": 2022,
+   "cat": "ad",
+   "len": "1:35",
+   "tags": [
+    "fashion",
+    "harry-styles",
+    "playful",
+    "domestic"
+   ],
+   "note": "Harry Styles plays dress-up at home in a loose, playful campaign. Everyday rituals turned into performance, with no runway and no hard sell.",
+   "dir": "Mark Borthwick",
+   "added": "2026-11-17",
+   "yt": "mI2yr6xEA5A"
+  },
+  {
+   "id": "squarespace-hello-down-there",
+   "brand": "Squarespace",
+   "title": "Hello Down There",
+   "year": 2024,
+   "cat": "ad",
+   "len": "1:31",
+   "tags": [
+    "super-bowl",
+    "aliens",
+    "satire",
+    "scorsese"
+   ],
+   "note": "UFOs hover over world capitals while everyone below keeps scrolling their phones. Scorsese's first Super Bowl spot, a 50s sci-fi pastiche with a sharp point.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-17",
+   "yt": "3K5FqWdsAgM"
+  },
+  {
+   "id": "calm-the-last-photo",
+   "brand": "CALM × ITV",
+   "title": "The Last Photo",
+   "year": 2022,
+   "cat": "ad",
+   "len": "1:31",
+   "tags": [
+    "purpose",
+    "real-footage",
+    "grand-prix",
+    "restraint"
+   ],
+   "note": "Smiling home videos of people taken in the days before they died by suicide. Real footage, no dramatisation: the Film Grand Prix winner at Cannes 2023.",
+   "dir": "Max Fisher",
+   "added": "2026-11-17",
+   "yt": "UshxuF2CuXo"
+  },
+  {
+   "id": "all-of-a-sudden-trailer",
+   "brand": "All of a Sudden",
+   "title": "Official trailer",
+   "year": 2026,
+   "cat": "promo",
+   "len": "2:07",
+   "tags": [
+    "trailer",
+    "neon",
+    "drama",
+    "hamaguchi"
+   ],
+   "note": "Hamaguchi's gentle, patient storytelling, sold through faces and quiet conversations. A trailer that trusts silence.",
+   "dir": "Ryusuke Hamaguchi",
+   "added": "2026-11-17",
+   "yt": "2AxtdPvDojA"
+  },
+  {
+   "id": "paper-tiger-teaser",
+   "brand": "Paper Tiger",
+   "title": "Official teaser",
+   "year": 2026,
+   "cat": "promo",
+   "len": "1:02",
+   "tags": [
+    "trailer",
+    "neon",
+    "crime",
+    "tension"
+   ],
+   "note": "A short, tense NEON teaser that withholds more than it shows. Mood first, plot later.",
+   "dir": "",
+   "added": "2026-11-17",
+   "yt": "ldCb77jXIsM"
+  },
+  {
+   "id": "dragon-tattoo-titles",
+   "brand": "The Girl with the Dragon Tattoo",
+   "title": "Opening title sequence",
+   "year": 2011,
+   "cat": "film",
+   "len": "2:34",
+   "tags": [
+    "title-sequence",
+    "black-oil",
+    "nightmare",
+    "fincher"
+   ],
+   "note": "Liquid black bodies, cables and fire to Trent Reznor and Karen O's \"Immigrant Song\". A nightmare version of a Bond title.",
+   "dir": "Tim Miller",
+   "added": "2026-11-17",
+   "yt": "sY4f_83t_rw"
+  },
+  {
+   "id": "only-god-forgives-shootout",
+   "brand": "Only God Forgives",
+   "title": "Restaurant shootout",
+   "year": 2013,
+   "cat": "film",
+   "len": "2:40",
+   "tags": [
+    "neon",
+    "violence",
+    "refn",
+    "bangkok"
+   ],
+   "note": "Refn's red and blue neon turns a restaurant ambush into a stylised tableau. Composition over chaos.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-17",
+   "yt": "Gr8RZkwty6U"
+  },
+  {
+   "id": "liquid-death-super-bowl-2026",
+   "brand": "Liquid Death",
+   "title": "Super Bowl 2026",
+   "year": 2026,
+   "cat": "ad",
+   "len": "0:31",
+   "tags": [
+    "super-bowl",
+    "dark-humor",
+    "punchy",
+    "brand-voice"
+   ],
+   "note": "Thirty seconds of the brand's trademark deadpan dark humour. Proof a strong brand voice can be more memorable than any product shot.",
+   "dir": "",
+   "added": "2026-11-17",
+   "yt": "xqkLPv6MjM8"
+  },
+  {
+   "id": "mean-streets-jumpin-jack",
+   "brand": "Mean Streets",
+   "title": "\"Jumpin' Jack Flash\" entrance",
+   "year": 1973,
+   "cat": "film",
+   "len": "0:58",
+   "tags": [
+    "slow-motion",
+    "music",
+    "character-intro",
+    "scorsese"
+   ],
+   "note": "De Niro's Johnny Boy enters the bar in slow motion to the Rolling Stones. The birth of Scorsese's needle-drop character intro.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-17",
+   "yt": "YWpz29wiW5c"
+  },
+  {
+   "id": "lola-montes-trailer",
+   "brand": "Lola Montès",
+   "title": "Trailer",
+   "year": 1955,
+   "cat": "promo",
+   "len": "2:38",
+   "tags": [
+    "trailer",
+    "cinemascope",
+    "color",
+    "circus"
+   ],
+   "note": "Ophüls's lavish CinemaScope circus of a film, sold as pure spectacle. Colour and camera movement from another era.",
+   "dir": "Max Ophüls",
+   "added": "2026-11-17",
+   "yt": "KuLb53N-XCY"
+  },
   {
    "id": "the-bear-sundae-montage",
    "brand": "The Bear",
