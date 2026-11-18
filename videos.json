@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "videos": [
+  {
+   "id": "balenciaga-ss22",
+   "brand": "Balenciaga",
+   "title": "Spring 22 campaign",
+   "year": 2021,
+   "cat": "ad",
+   "len": "2:37",
+   "tags": [
+    "fashion",
+    "campaign",
+    "deadpan",
+    "demna"
+   ],
+   "note": "Balenciaga's deadpan, slightly uncanny campaign language: models posed like strangers in everyday scenes. Fashion film that feels like conceptual art.",
+   "dir": "",
+   "added": "2026-11-18",
+   "yt": "H5zSHFBjohE"
+  },
+  {
+   "id": "goodfellas-ending",
+   "brand": "Goodfellas",
+   "title": "Ending: the trial",
+   "year": 1990,
+   "cat": "film",
+   "len": "6:36",
+   "tags": [
+    "fourth-wall",
+    "monologue",
+    "freeze-frame",
+    "scorsese"
+   ],
+   "note": "Henry breaks the fourth wall on the witness stand and walks off into suburban purgatory. One of cinema's great endings, built on direct address.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-18",
+   "yt": "4Dxdo1ErVY4"
+  },
+  {
+   "id": "hateful-eight-titles",
+   "brand": "The Hateful Eight",
+   "title": "Title sequence",
+   "year": 2015,
+   "cat": "film",
+   "len": "4:37",
+   "tags": [
+    "title-sequence",
+    "ultra-panavision",
+    "snow",
+    "morricone"
+   ],
+   "note": "A slow pull back from a snow-covered crucifix in 70mm Ultra Panavision to Morricone's ominous score. Patience as menace.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-18",
+   "yt": "r5wSmk7H-Sk"
+  },
+  {
+   "id": "john-wick-4-paint-it-black",
+   "brand": "John Wick: Chapter 4",
+   "title": "\"Paint It Black\" overhead fight",
+   "year": 2023,
+   "cat": "film",
+   "len": "2:39",
+   "tags": [
+    "top-down",
+    "oner",
+    "dragons-breath",
+    "action"
+   ],
+   "note": "The camera rises to a top-down view and follows a single take through an abandoned building, lit by dragon's-breath rounds. Video-game geometry turned into cinema.",
+   "dir": "Chad Stahelski",
+   "added": "2026-11-18",
+   "yt": "jUIZdspS32E"
+  },
+  {
+   "id": "bottega-lunar-new-year-2025",
+   "brand": "Bottega Veneta",
+   "title": "Lunar New Year campaign",
+   "year": 2025,
+   "cat": "ad",
+   "len": "1:11",
+   "tags": [
+    "fashion",
+    "craft",
+    "festive",
+    "campaign"
+   ],
+   "note": "A restrained, craft-led holiday film from Bottega. Celebration without the usual festive clichés.",
+   "dir": "",
+   "added": "2026-11-18",
+   "yt": "3LygzuVUU1w"
+  },
+  {
+   "id": "fallout-opening",
+   "brand": "Fallout",
+   "title": "Opening: the bombs drop",
+   "year": 2024,
+   "cat": "film",
+   "len": "3:43",
+   "tags": [
+    "opening-scene",
+    "retro-future",
+    "apocalypse",
+    "tonal-shift"
+   ],
+   "note": "A 1950s-style kids' birthday party is interrupted by mushroom clouds on the horizon. A brutal tonal shift that sets up the whole show's dark humour.",
+   "dir": "Jonathan Nolan",
+   "added": "2026-11-18",
+   "yt": "hJjIf7nwx6U"
+  },
+  {
+   "id": "ferrari-fw25-26",
+   "brand": "Ferrari",
+   "title": "Fall/Winter 2025-26 campaign",
+   "year": 2025,
+   "cat": "ad",
+   "len": "1:01",
+   "tags": [
+    "fashion",
+    "luxury",
+    "italy",
+    "campaign"
+   ],
+   "note": "Ferrari's fashion line in a sleek, minimal campaign. The brand's racing heritage translated into quiet luxury.",
+   "dir": "",
+   "added": "2026-11-18",
+   "yt": "zpXUIXpgVAU"
+  },
+  {
+   "id": "chemical-brothers-salmon-dance",
+   "brand": "The Chemical Brothers",
+   "title": "The Salmon Dance",
+   "year": 2007,
+   "cat": "music",
+   "len": "3:59",
+   "tags": [
+    "music-video",
+    "comedy",
+    "aquarium",
+    "dom-and-nic"
+   ],
+   "note": "A boy's aquarium fish start rapping and explaining salmon biology. Absurd, deadpan, and impossible to forget.",
+   "dir": "Dom & Nic",
+   "added": "2026-11-18",
+   "yt": "dDj7DuHVV9E"
+  },
+  {
+   "id": "true-detective-s2-titles",
+   "brand": "True Detective",
+   "title": "Season 2 opening credits",
+   "year": 2015,
+   "cat": "film",
+   "len": "1:32",
+   "tags": [
+    "title-sequence",
+    "double-exposure",
+    "freeways",
+    "leonard-cohen"
+   ],
+   "note": "The double-exposure language returns, now with California freeways and Leonard Cohen's \"Nevermind\". A sequel that evolves the look rather than copying it.",
+   "dir": "Patrick Clair",
+   "added": "2026-11-18",
+   "yt": "fBeCMUXUGmI"
+  },
+  {
+   "id": "rocknrolla-intro",
+   "brand": "RocknRolla",
+   "title": "Intro",
+   "year": 2008,
+   "cat": "film",
+   "len": "1:59",
+   "tags": [
+    "guy-ritchie",
+    "character-intro",
+    "freeze-frame",
+    "narration"
+   ],
+   "note": "Archy's narration introduces the players with freeze frames and title cards. The classic Ritchie ensemble setup, compressed into minutes.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-18",
+   "yt": "EL4SALjhcWE"
+  },
   {
    "id": "gucci-ha-ha-ha",
    "brand": "Gucci",
