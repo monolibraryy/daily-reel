@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "videos": [
+  {
+   "id": "no-time-to-die-titles",
+   "brand": "No Time to Die",
+   "title": "Opening title sequence",
+   "year": 2021,
+   "cat": "film",
+   "len": "3:43",
+   "tags": [
+    "title-sequence",
+    "bond",
+    "dna",
+    "guns"
+   ],
+   "note": "DNA strands turn into gun barrels, and Britannia dissolves into sand, to Billie Eilish. Kleinman closes the Craig era with mournful, elegant CG.",
+   "dir": "Daniel Kleinman",
+   "added": "2026-11-19",
+   "yt": "83YuaW09ueI"
+  },
+  {
+   "id": "memoria-trailer",
+   "brand": "Memoria",
+   "title": "Official trailer",
+   "year": 2021,
+   "cat": "promo",
+   "len": "1:42",
+   "tags": [
+    "trailer",
+    "mubi",
+    "sound",
+    "slow-cinema"
+   ],
+   "note": "Built around one mysterious bang that only Tilda Swinton can hear. A trailer that sells sound design and stillness.",
+   "dir": "Apichatpong Weerasethakul",
+   "added": "2026-11-19",
+   "yt": "tQ4CrHt2WWM"
+  },
+  {
+   "id": "hm-come-together",
+   "brand": "H&M",
+   "title": "Come Together",
+   "year": 2016,
+   "cat": "ad",
+   "len": "0:57",
+   "tags": [
+    "holiday",
+    "wes-anderson",
+    "train",
+    "symmetry"
+   ],
+   "note": "A delayed holiday train and a conductor's small kindness, in full Wes Anderson symmetry and pastel. Brand storytelling as a miniature film.",
+   "dir": "Wes Anderson",
+   "added": "2026-11-19",
+   "yt": "M23wkY4J-iQ"
+  },
+  {
+   "id": "gentlemen-pound-of-flesh",
+   "brand": "The Gentlemen",
+   "title": "\"Pound of flesh\"",
+   "year": 2019,
+   "cat": "film",
+   "len": "2:39",
+   "tags": [
+    "guy-ritchie",
+    "monologue",
+    "menace",
+    "dialogue"
+   ],
+   "note": "Mickey's calm, terrifying jungle-law monologue. Ritchie dialogue delivered as quiet threat.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-19",
+   "yt": "-A-0NvwWN0s"
+  },
+  {
+   "id": "smoke-titles",
+   "brand": "Smoke",
+   "title": "Opening title sequence",
+   "year": 2025,
+   "cat": "film",
+   "len": "1:20",
+   "tags": [
+    "title-sequence",
+    "fire",
+    "texture",
+    "noir"
+   ],
+   "note": "Smoke and embers drift through faces and places. A moody Apple TV title built on one element.",
+   "dir": "",
+   "added": "2026-11-19",
+   "yt": "Y2pC4ZCzcIA"
+  },
+  {
+   "id": "octopussy-titles",
+   "brand": "Octopussy",
+   "title": "Opening title sequence",
+   "year": 1983,
+   "cat": "film",
+   "len": "3:02",
+   "tags": [
+    "title-sequence",
+    "bond",
+    "laser",
+    "silhouettes"
+   ],
+   "note": "Laser beams and silhouettes in Maurice Binder's signature style. Peak 80s Bond titles.",
+   "dir": "Maurice Binder",
+   "added": "2026-11-19",
+   "yt": "Md8uNCYX_Nc"
+  },
+  {
+   "id": "drive-ending",
+   "brand": "Drive",
+   "title": "Ending",
+   "year": 2011,
+   "cat": "film",
+   "len": "2:12",
+   "tags": [
+    "synth",
+    "night",
+    "refn",
+    "ambiguity"
+   ],
+   "note": "The driver bleeding in the car, eyes open or closed, then driving into the night to \"A Real Hero\". An ending that is all mood.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-19",
+   "yt": "ftX7YknC89w"
+  },
+  {
+   "id": "morning-show-titles",
+   "brand": "The Morning Show",
+   "title": "Opening title sequence",
+   "year": 2019,
+   "cat": "film",
+   "len": "1:51",
+   "tags": [
+    "title-sequence",
+    "liquid",
+    "abstract",
+    "apple-tv"
+   ],
+   "note": "Abstract liquid metal and colour flows, cool and corporate. Shows how a title can set tone with pure material.",
+   "dir": "",
+   "added": "2026-11-19",
+   "yt": "1NLSvaGTGP8"
+  },
+  {
+   "id": "zodiac-not-the-zodiac",
+   "brand": "Zodiac",
+   "title": "\"I'm not the Zodiac\"",
+   "year": 2007,
+   "cat": "film",
+   "len": "2:42",
+   "tags": [
+    "interrogation",
+    "tension",
+    "fincher",
+    "performance"
+   ],
+   "note": "The suspect's quiet factory interview: Fincher stages unbearable tension through stillness and a pair of watch-wearing hands.",
+   "dir": "David Fincher",
+   "added": "2026-11-19",
+   "yt": "DSuUJ-Scbeg"
+  },
+  {
+   "id": "revenge-pink-panther-titles",
+   "brand": "Revenge of the Pink Panther",
+   "title": "Title sequence",
+   "year": 1978,
+   "cat": "film",
+   "len": "4:59",
+   "tags": [
+    "title-sequence",
+    "animation",
+    "comedy",
+    "classic"
+   ],
+   "note": "An animated Panther chase through the credits. Character-driven title animation from the golden era.",
+   "dir": "",
+   "added": "2026-11-19",
+   "yt": "99eiwAGSYZo"
+  },
   {
    "id": "balenciaga-ss22",
    "brand": "Balenciaga",
