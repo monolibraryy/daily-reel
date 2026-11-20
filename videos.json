@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "videos": [
+  {
+   "id": "cliff-booth-trailer",
+   "brand": "The Further Mis-Adventures of Cliff Booth",
+   "title": "Official trailer",
+   "year": 2026,
+   "cat": "promo",
+   "len": "1:30",
+   "tags": [
+    "trailer",
+    "fincher",
+    "tarantino",
+    "1977"
+   ],
+   "note": "Fincher directing a Tarantino script: Cliff Booth back as a fixer in 1977 Hollywood. Sleek, cold and funny all at once.",
+   "dir": "David Fincher",
+   "added": "2026-11-20",
+   "yt": "RjEZaUBbUvU"
+  },
+  {
+   "id": "walkabout-trailer",
+   "brand": "Walkabout",
+   "title": "Trailer",
+   "year": 1971,
+   "cat": "promo",
+   "len": "3:24",
+   "tags": [
+    "trailer",
+    "criterion",
+    "outback",
+    "roeg"
+   ],
+   "note": "Roeg's hypnotic outback odyssey: harsh landscapes, jump cuts and culture clash, sold through pure image.",
+   "dir": "Nicolas Roeg",
+   "added": "2026-11-20",
+   "yt": "Fdqwbs8uKwQ"
+  },
+  {
+   "id": "miu-miu-ss26",
+   "brand": "Miu Miu",
+   "title": "Spring/Summer 2026 campaign",
+   "year": 2026,
+   "cat": "ad",
+   "len": "1:16",
+   "tags": [
+    "fashion",
+    "campaign",
+    "ocean",
+    "cinematic"
+   ],
+   "note": "A dreamy campaign film that floats between city and sea. Fashion treated as mood and place, not product.",
+   "dir": "",
+   "added": "2026-11-20",
+   "yt": "I8_A3jI5Ta8"
+  },
+  {
+   "id": "layer-cake-intro",
+   "brand": "Layer Cake",
+   "title": "Opening monologue",
+   "year": 2004,
+   "cat": "film",
+   "len": "3:22",
+   "tags": [
+    "monologue",
+    "drugs",
+    "vaughn",
+    "character-intro"
+   ],
+   "note": "Daniel Craig's narrator explains the drug business over slick, sardonic visuals. A stylish British crime intro in the Ritchie school.",
+   "dir": "Matthew Vaughn",
+   "added": "2026-11-20",
+   "yt": "AwoCyF6qJzE"
+  },
+  {
+   "id": "benedetta-trailer",
+   "brand": "Benedetta",
+   "title": "Official trailer #2",
+   "year": 2021,
+   "cat": "promo",
+   "len": "0:31",
+   "tags": [
+    "trailer",
+    "mubi",
+    "provocative",
+    "verhoeven"
+   ],
+   "note": "Thirty seconds of Verhoeven provocation: nuns, visions and scandal. Short, sharp and confident.",
+   "dir": "Paul Verhoeven",
+   "added": "2026-11-20",
+   "yt": "jMpPVqyOTw8"
+  },
+  {
+   "id": "uncut-gems-final-scene",
+   "brand": "Uncut Gems",
+   "title": "Final scene",
+   "year": 2019,
+   "cat": "film",
+   "len": "4:56",
+   "tags": [
+    "tension",
+    "sports-bet",
+    "climax",
+    "safdie"
+   ],
+   "note": "Howard's last bet plays out in a sealed showroom, then the film delivers its brutal ending. Unbearable tension, cut to the second.",
+   "dir": "Josh & Benny Safdie",
+   "added": "2026-11-20",
+   "yt": "0Ln04cUsbyI"
+  },
+  {
+   "id": "la-haine-restroom",
+   "brand": "La Haine",
+   "title": "The old man in the restroom",
+   "year": 1995,
+   "cat": "film",
+   "len": "3:19",
+   "tags": [
+    "monologue",
+    "black-and-white",
+    "absurd",
+    "kassovitz"
+   ],
+   "note": "A stranger tells the boys a pointless, haunting story about the gulag. A quiet, absurd detour that says everything about the film.",
+   "dir": "Mathieu Kassovitz",
+   "added": "2026-11-20",
+   "yt": "PBEVfhd2td8"
+  },
+  {
+   "id": "up-in-the-air-titles",
+   "brand": "Up in the Air",
+   "title": "Title sequence",
+   "year": 2009,
+   "cat": "film",
+   "len": "2:23",
+   "tags": [
+    "title-sequence",
+    "aerial",
+    "maps",
+    "reitman"
+   ],
+   "note": "Aerial views of America's grids and patchwork fields, to a soulful cover of \"This Land Is Your Land\". Sets up a life spent in transit.",
+   "dir": "",
+   "added": "2026-11-20",
+   "yt": "LfFEDVE4bR4"
+  },
+  {
+   "id": "f1-movie-titles",
+   "brand": "F1",
+   "title": "Title sequence",
+   "year": 2025,
+   "cat": "film",
+   "len": "3:29",
+   "tags": [
+    "title-sequence",
+    "motorsport",
+    "speed",
+    "typography"
+   ],
+   "note": "Race footage, telemetry graphics and bold type cut to the beat. Motorsport energy in title form.",
+   "dir": "",
+   "added": "2026-11-20",
+   "yt": "TaZM7ntXQyg"
+  },
+  {
+   "id": "thunderball-titles",
+   "brand": "Thunderball",
+   "title": "Opening title sequence",
+   "year": 1965,
+   "cat": "film",
+   "len": "2:59",
+   "tags": [
+    "title-sequence",
+    "bond",
+    "underwater",
+    "silhouettes"
+   ],
+   "note": "Silhouetted swimmers and divers in a shimmering underwater world. Maurice Binder's classic Bond look.",
+   "dir": "Maurice Binder",
+   "added": "2026-11-20",
+   "yt": "sT0x7QiJI1g"
+  },
   {
    "id": "no-time-to-die-titles",
    "brand": "No Time to Die",
