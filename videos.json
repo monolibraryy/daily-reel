@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "videos": [
+  {
+   "id": "gentle-monster-intelligent-eyewear",
+   "brand": "Gentle Monster",
+   "title": "Intelligent Eyewear with Joaquin Phoenix",
+   "year": 2026,
+   "cat": "ad",
+   "len": "6:53",
+   "tags": [
+    "fashion",
+    "glazer",
+    "surreal",
+    "tech"
+   ],
+   "note": "Joaquin Phoenix drifts through a mysterious hotel and uses the glasses to talk to the unknown. Glazer turns a smart-glasses launch into psychological cinema.",
+   "dir": "Jonathan Glazer",
+   "added": "2026-11-21",
+   "yt": "Sk6g8t2vQFs"
+  },
+  {
+   "id": "green-knight-trailer",
+   "brand": "The Green Knight",
+   "title": "Official trailer",
+   "year": 2021,
+   "cat": "promo",
+   "len": "2:26",
+   "tags": [
+    "trailer",
+    "a24",
+    "myth",
+    "painterly"
+   ],
+   "note": "Arthurian myth rendered as painterly, eerie dread. Every frame looks like a tapestry come alive.",
+   "dir": "David Lowery",
+   "added": "2026-11-21",
+   "yt": "sS6ksY8xWCY"
+  },
+  {
+   "id": "pearl-trailer",
+   "brand": "Pearl",
+   "title": "Official trailer",
+   "year": 2022,
+   "cat": "promo",
+   "len": "2:08",
+   "tags": [
+    "trailer",
+    "a24",
+    "technicolor",
+    "horror"
+   ],
+   "note": "Technicolor farm-girl dreams curdling into horror. Old-Hollywood gloss used against itself.",
+   "dir": "Ti West",
+   "added": "2026-11-21",
+   "yt": "L5PW5r3pEOg"
+  },
+  {
+   "id": "gone-girl-trailer",
+   "brand": "Gone Girl",
+   "title": "Official trailer",
+   "year": 2014,
+   "cat": "promo",
+   "len": "2:29",
+   "tags": [
+    "trailer",
+    "fincher",
+    "mystery",
+    "cold"
+   ],
+   "note": "Cold, controlled and teasing, set to a haunting cover of \"She\". Fincher's trailer sells doubt itself.",
+   "dir": "David Fincher",
+   "added": "2026-11-21",
+   "yt": "8Se07xxjYsU"
+  },
+  {
+   "id": "fight-club-plane",
+   "brand": "Fight Club",
+   "title": "\"Plane\": meeting Tyler",
+   "year": 1999,
+   "cat": "film",
+   "len": "4:01",
+   "tags": [
+    "dialogue",
+    "character-intro",
+    "fincher",
+    "satire"
+   ],
+   "note": "The narrator meets Tyler Durden on a plane, single-serving friends and all. Tyler's charisma arrives fully formed.",
+   "dir": "David Fincher",
+   "added": "2026-11-21",
+   "yt": "tBFVAb1rcE0"
+  },
+  {
+   "id": "pulp-fiction-opening",
+   "brand": "Pulp Fiction",
+   "title": "Opening scene and credits",
+   "year": 1994,
+   "cat": "film",
+   "len": "6:49",
+   "tags": [
+    "opening-scene",
+    "dialogue",
+    "surf-rock",
+    "tarantino"
+   ],
+   "note": "Pumpkin and Honey Bunny's diner robbery smashes into \"Misirlou\" and the credits. The most famous cold open of the 90s.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-21",
+   "yt": "awTcFgJ80IE"
+  },
+  {
+   "id": "heretic-trailer",
+   "brand": "Heretic",
+   "title": "Official trailer",
+   "year": 2024,
+   "cat": "promo",
+   "len": "2:24",
+   "tags": [
+    "trailer",
+    "a24",
+    "hugh-grant",
+    "dread"
+   ],
+   "note": "Hugh Grant's charm turns sinister as two missionaries get trapped. Tension built through one unnerving performance.",
+   "dir": "Scott Beck & Bryan Woods",
+   "added": "2026-11-21",
+   "yt": "O9i2vmFhSSY"
+  },
+  {
+   "id": "neon-demon-trailer",
+   "brand": "The Neon Demon",
+   "title": "Official trailer",
+   "year": 2016,
+   "cat": "promo",
+   "len": "1:34",
+   "tags": [
+    "trailer",
+    "neon",
+    "fashion",
+    "refn"
+   ],
+   "note": "Strobing neon, mirrors and the fashion world as horror. Refn's style distilled into a minute and a half.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-21",
+   "yt": "s3rDv5MWtdw"
+  },
+  {
+   "id": "ouatih-bruce-lee-fight",
+   "brand": "Once Upon a Time in Hollywood",
+   "title": "Bruce Lee fight",
+   "year": 2019,
+   "cat": "film",
+   "len": "5:06",
+   "tags": [
+    "fight",
+    "comedy",
+    "tarantino",
+    "flashback"
+   ],
+   "note": "Cliff Booth and Bruce Lee square off on a film set. Tarantino plays it as a schoolyard brawl with movie-star swagger.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-21",
+   "yt": "tlUuNg6PEXA"
+  },
+  {
+   "id": "in-bruges-trailer",
+   "brand": "In Bruges",
+   "title": "Official trailer",
+   "year": 2008,
+   "cat": "promo",
+   "len": "2:28",
+   "tags": [
+    "trailer",
+    "dark-comedy",
+    "hitmen",
+    "mcdonagh"
+   ],
+   "note": "Two hitmen killing time in a fairytale town. The trailer sells the film's mix of sad, funny and violent.",
+   "dir": "Martin McDonagh",
+   "added": "2026-11-21",
+   "yt": "p-gG2qo_l_A"
+  },
   {
    "id": "cliff-booth-trailer",
    "brand": "The Further Mis-Adventures of Cliff Booth",
