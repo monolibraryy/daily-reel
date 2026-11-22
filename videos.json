@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "videos": [
+  {
+   "id": "artificial-trailer",
+   "brand": "Artificial",
+   "title": "Official trailer",
+   "year": 2026,
+   "cat": "promo",
+   "len": "2:06",
+   "tags": [
+    "trailer",
+    "neon",
+    "silicon-valley",
+    "guadagnino"
+   ],
+   "note": "Guadagnino's kinetic camera meets boardroom panic in the OpenAI firing saga. A manic, claustrophobic trailer.",
+   "dir": "Luca Guadagnino",
+   "added": "2026-11-22",
+   "yt": "ufeJbTNq-BI"
+  },
+  {
+   "id": "sherlock-holmes-fight",
+   "brand": "Sherlock Holmes",
+   "title": "Bare-knuckle fight",
+   "year": 2009,
+   "cat": "film",
+   "len": "3:50",
+   "tags": [
+    "guy-ritchie",
+    "slow-motion",
+    "pre-visualised",
+    "fight"
+   ],
+   "note": "Holmes plans every blow in slow-motion voiceover, then it plays out at full speed. Ritchie's signature move: show the plan, then the execution.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-22",
+   "yt": "lLuhWLNqpiA"
+  },
+  {
+   "id": "pg-the-talk",
+   "brand": "Procter & Gamble",
+   "title": "The Talk",
+   "year": 2017,
+   "cat": "ad",
+   "len": "1:59",
+   "tags": [
+    "purpose",
+    "generations",
+    "emotional",
+    "grand-prix"
+   ],
+   "note": "Black mothers across decades preparing their children for racism. A restrained, devastating film that won the Cannes Film Grand Prix in 2018.",
+   "dir": "Malik Vitthal",
+   "added": "2026-11-22",
+   "yt": "z3CAEvQ1DNA"
+  },
+  {
+   "id": "daredevil-titles",
+   "brand": "Daredevil",
+   "title": "Opening title sequence",
+   "year": 2015,
+   "cat": "film",
+   "len": "1:02",
+   "tags": [
+    "title-sequence",
+    "blood",
+    "sculpture",
+    "patrick-clair"
+   ],
+   "note": "Red liquid drips over the city and slowly forms sculptures of justice. Clair builds the show's moral world in one material.",
+   "dir": "Patrick Clair",
+   "added": "2026-11-22",
+   "yt": "qDPtWLbL3QI"
+  },
+  {
+   "id": "vortex-trailer",
+   "brand": "Vortex",
+   "title": "Official trailer",
+   "year": 2021,
+   "cat": "promo",
+   "len": "1:39",
+   "tags": [
+    "trailer",
+    "split-screen",
+    "ageing",
+    "noe"
+   ],
+   "note": "A split screen follows an elderly couple, side by side and apart. Noé's most restrained idea is also his most devastating.",
+   "dir": "Gaspar Noé",
+   "added": "2026-11-22",
+   "yt": "ZzhX-jYQLeU"
+  },
+  {
+   "id": "fifa-22-hypermotion",
+   "brand": "FIFA 22",
+   "title": "\"HyperMotion Begins\" launch trailer",
+   "year": 2021,
+   "cat": "promo",
+   "len": "2:31",
+   "tags": [
+    "launch-trailer",
+    "football",
+    "stars",
+    "energy"
+   ],
+   "note": "A FIFA launch trailer in the \"Champions Rise\" mould: superstar cameos, slow motion and anthem energy.",
+   "dir": "",
+   "added": "2026-11-22",
+   "yt": "woPUtEKsMQ8"
+  },
+  {
+   "id": "ipod-nano-feist",
+   "brand": "Apple",
+   "title": "iPod nano: Feist \"1234\"",
+   "year": 2007,
+   "cat": "ad",
+   "len": "0:31",
+   "tags": [
+    "music",
+    "colour",
+    "silhouette",
+    "apple"
+   ],
+   "note": "One song, colourful nanos and a dancing Feist made the track a hit. The ad and the song became inseparable.",
+   "dir": "",
+   "added": "2026-11-22",
+   "yt": "sijSh4tMPVg"
+  },
+  {
+   "id": "3-body-problem-titles",
+   "brand": "3 Body Problem",
+   "title": "Opening title sequence",
+   "year": 2024,
+   "cat": "film",
+   "len": "1:18",
+   "tags": [
+    "title-sequence",
+    "cosmic",
+    "abstract",
+    "netflix"
+   ],
+   "note": "Cosmic, abstract imagery and an eerie theme set the scale of the show. Mood over literal story.",
+   "dir": "",
+   "added": "2026-11-22",
+   "yt": "RzCw-L-VeVg"
+  },
+  {
+   "id": "apple-diwali-step-into-light",
+   "brand": "Apple",
+   "title": "Diwali: \"Step Into the Light\" (shot on iPhone)",
+   "year": 2026,
+   "cat": "ad",
+   "len": "1:39",
+   "tags": [
+    "festive",
+    "india",
+    "colour",
+    "shot-on-iphone"
+   ],
+   "note": "A festive film shot on iPhone with Raw Mango's textiles. Warm light and colour carry the whole spot.",
+   "dir": "",
+   "added": "2026-11-22",
+   "yt": "kIHXLyV6PiM"
+  },
+  {
+   "id": "goodfellas-jimmy-conway",
+   "brand": "Goodfellas",
+   "title": "Jimmy Conway introduction",
+   "year": 1990,
+   "cat": "film",
+   "len": "2:16",
+   "tags": [
+    "character-intro",
+    "slow-motion",
+    "freeze-frame",
+    "scorsese"
+   ],
+   "note": "De Niro's Jimmy walks in, in slow motion, tipping everyone, while Henry narrates. A perfect character intro in under a minute.",
+   "dir": "Martin Scorsese",
+   "added": "2026-11-22",
+   "yt": "JG3mhtojm8Y"
+  },
   {
    "id": "gentle-monster-intelligent-eyewear",
    "brand": "Gentle Monster",
