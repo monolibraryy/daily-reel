@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "videos": [
+  {
+   "id": "florida-project-trailer",
+   "brand": "The Florida Project",
+   "title": "Official trailer",
+   "year": 2017,
+   "cat": "promo",
+   "len": "2:15",
+   "tags": [
+    "trailer",
+    "a24",
+    "pastel",
+    "childhood"
+   ],
+   "note": "Pastel motels in the shadow of Disney World, seen at child height. Joyful images carrying a heavy undertow.",
+   "dir": "Sean Baker",
+   "added": "2026-11-23",
+   "yt": "WwQ-NH1rRT4"
+  },
+  {
+   "id": "mia-bad-girls",
+   "brand": "M.I.A.",
+   "title": "Bad Girls",
+   "year": 2012,
+   "cat": "music",
+   "len": "4:11",
+   "tags": [
+    "music-video",
+    "drifting",
+    "desert",
+    "gavras"
+   ],
+   "note": "Cars drifting on two wheels through a Moroccan desert town, shot with total swagger. Gavras makes stunts look like choreography.",
+   "dir": "Romain Gavras",
+   "added": "2026-11-23",
+   "yt": "2uYs0gJD-LE"
+  },
+  {
+   "id": "metronomy-love-letters",
+   "brand": "Metronomy",
+   "title": "Love Letters",
+   "year": 2014,
+   "cat": "music",
+   "len": "3:09",
+   "tags": [
+    "music-video",
+    "oner",
+    "diorama",
+    "gondry"
+   ],
+   "note": "One take circling a handmade diorama, with forced-perspective tricks in camera. Gondry's playful craft at its simplest.",
+   "dir": "Michel Gondry",
+   "added": "2026-11-23",
+   "yt": "riEBi8BJ9Tw"
+  },
+  {
+   "id": "mgmt-kids",
+   "brand": "MGMT",
+   "title": "Kids",
+   "year": 2009,
+   "cat": "music",
+   "len": "6:07",
+   "tags": [
+    "music-video",
+    "monsters",
+    "surreal",
+    "nightmare"
+   ],
+   "note": "A toddler sees monsters everywhere while his mother sees nothing. Funny and genuinely disturbing in equal measure.",
+   "dir": "Ray Tintori",
+   "added": "2026-11-23",
+   "yt": "fe4EK4HSPkI"
+  },
+  {
+   "id": "city-of-god-shaggy",
+   "brand": "City of God",
+   "title": "Shaggy takes off",
+   "year": 2002,
+   "cat": "film",
+   "len": "3:05",
+   "tags": [
+    "handheld",
+    "chase",
+    "favela",
+    "meirelles"
+   ],
+   "note": "A frantic handheld chase through the favela, all kinetic energy and colour. The film's style in one burst.",
+   "dir": "Fernando Meirelles",
+   "added": "2026-11-23",
+   "yt": "qvDxgXX9lww"
+  },
+  {
+   "id": "reservoir-dogs-pink-chase",
+   "brand": "Reservoir Dogs",
+   "title": "Mr. Pink chase",
+   "year": 1992,
+   "cat": "film",
+   "len": "2:47",
+   "tags": [
+    "chase",
+    "handheld",
+    "tarantino",
+    "flashback"
+   ],
+   "note": "A frantic foot chase through LA streets as Mr. Pink escapes the heist. Raw, scrappy energy from a debut film.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-23",
+   "yt": "XjoSwsZbiBM"
+  },
+  {
+   "id": "liquid-death-breaking-the-law",
+   "brand": "Liquid Death",
+   "title": "Breaking the Law (Super Bowl)",
+   "year": 2022,
+   "cat": "ad",
+   "len": "0:31",
+   "tags": [
+    "super-bowl",
+    "dark-humor",
+    "metal",
+    "kids"
+   ],
+   "note": "Kids getting \"hooked\" on canned water, set to Judas Priest. Thirty seconds of perfect brand irony.",
+   "dir": "",
+   "added": "2026-11-23",
+   "yt": "ky80JcW9W90"
+  },
+  {
+   "id": "bbc-world-cup-2018",
+   "brand": "BBC Sport",
+   "title": "FIFA World Cup 2018 trailer",
+   "year": 2018,
+   "cat": "promo",
+   "len": "1:13",
+   "tags": [
+    "launch-trailer",
+    "football",
+    "russian-art",
+    "tapestry"
+   ],
+   "note": "The World Cup told as a living Russian folk-art tapestry. A broadcaster trailer with real craft.",
+   "dir": "",
+   "added": "2026-11-23",
+   "yt": "WBxwX1myxqc"
+  },
+  {
+   "id": "chanel-25-campaign",
+   "brand": "Chanel",
+   "title": "CHANEL 25 handbag campaign",
+   "year": 2025,
+   "cat": "ad",
+   "len": "0:54",
+   "tags": [
+    "fashion",
+    "campaign",
+    "luxury",
+    "bag"
+   ],
+   "note": "A short, polished Chanel campaign film for the 25 bag. House codes delivered with restraint.",
+   "dir": "",
+   "added": "2026-11-23",
+   "yt": "ohvN6A7Onos"
+  },
+  {
+   "id": "godless-titles",
+   "brand": "Godless",
+   "title": "Title sequence",
+   "year": 2017,
+   "cat": "film",
+   "len": "1:10",
+   "tags": [
+    "title-sequence",
+    "western",
+    "texture",
+    "netflix"
+   ],
+   "note": "Dust, fire and frontier textures for Netflix's western. Classic genre mood built through material.",
+   "dir": "",
+   "added": "2026-11-23",
+   "yt": "FAcnmhCAMo4"
+  },
   {
    "id": "artificial-trailer",
    "brand": "Artificial",
