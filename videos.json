@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "videos": [
+  {
+   "id": "dark-knight-ending",
+   "brand": "The Dark Knight",
+   "title": "Ending and credits",
+   "year": 2008,
+   "cat": "film",
+   "len": "3:51",
+   "tags": [
+    "ending",
+    "monologue",
+    "score",
+    "nolan"
+   ],
+   "note": "Gordon's \"silent guardian\" monologue over Batman's escape, then a hard cut to black. Score, voiceover and editing land in one perfect crescendo.",
+   "dir": "Christopher Nolan",
+   "added": "2026-11-24",
+   "yt": "FpkZi262Wi4"
+  },
+  {
+   "id": "mulholland-drive-trailer",
+   "brand": "Mulholland Drive",
+   "title": "Trailer",
+   "year": 2001,
+   "cat": "promo",
+   "len": "1:43",
+   "tags": [
+    "trailer",
+    "criterion",
+    "dream",
+    "lynch"
+   ],
+   "note": "Lynch's dream logic sold through fragments: roads at night, faces and dread. A trailer that deepens the mystery.",
+   "dir": "David Lynch",
+   "added": "2026-11-24",
+   "yt": "U-Y70mhkiJo"
+  },
+  {
+   "id": "midnight-cowboy-trailer",
+   "brand": "Midnight Cowboy",
+   "title": "Trailer",
+   "year": 1969,
+   "cat": "promo",
+   "len": "1:48",
+   "tags": [
+    "trailer",
+    "criterion",
+    "new-york",
+    "new-hollywood"
+   ],
+   "note": "New Hollywood grit: a naive Texan hustler lost in New York, to \"Everybody's Talkin'\".",
+   "dir": "John Schlesinger",
+   "added": "2026-11-24",
+   "yt": "d0xOyKxuIgk"
+  },
+  {
+   "id": "prada-gentle-monster",
+   "brand": "Prada × Gentle Monster",
+   "title": "Campaign film",
+   "year": 2026,
+   "cat": "ad",
+   "len": "1:17",
+   "tags": [
+    "fashion",
+    "collab",
+    "eyewear",
+    "cinematic"
+   ],
+   "note": "A short, moody film announcing the collaboration, starring Kentaro Sakaguchi. Two brands' codes in one controlled frame.",
+   "dir": "",
+   "added": "2026-11-24",
+   "yt": "O2n2o8snbWk"
+  },
+  {
+   "id": "anatomy-of-a-murder-titles",
+   "brand": "Anatomy of a Murder",
+   "title": "Title sequence",
+   "year": 1959,
+   "cat": "film",
+   "len": "1:57",
+   "tags": [
+    "title-sequence",
+    "cut-paper",
+    "jazz",
+    "saul-bass"
+   ],
+   "note": "A body broken into cut-paper pieces to Duke Ellington's score. One of Saul Bass's most influential graphic sequences.",
+   "dir": "Saul Bass",
+   "added": "2026-11-24",
+   "yt": "QccJ2L-7DVk"
+  },
+  {
+   "id": "fifa-20-wrong-breaks-new-ground",
+   "brand": "FIFA 20",
+   "title": "\"Wrong Breaks New Ground\" launch trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "1:24",
+   "tags": [
+    "launch-trailer",
+    "football",
+    "street",
+    "energy"
+   ],
+   "note": "Street football and stars cut into a rebellious anthem. A FIFA launch trailer in the \"Champions Rise\" lineage.",
+   "dir": "",
+   "added": "2026-11-24",
+   "yt": "XilsKZmWoBY"
+  },
+  {
+   "id": "john-wick-noise-complaint",
+   "brand": "John Wick",
+   "title": "\"Noise complaint\"",
+   "year": 2014,
+   "cat": "film",
+   "len": "3:00",
+   "tags": [
+    "deadpan",
+    "action",
+    "world-building",
+    "stahelski"
+   ],
+   "note": "A cop at the door, bodies on the floor, and a polite \"you working again, John?\". Deadpan world-building in one beat.",
+   "dir": "Chad Stahelski",
+   "added": "2026-11-24",
+   "yt": "4S8_1PIolnY"
+  },
+  {
+   "id": "weeknd-i-feel-it-coming",
+   "brand": "The Weeknd",
+   "title": "I Feel It Coming (ft. Daft Punk)",
+   "year": 2017,
+   "cat": "music",
+   "len": "4:58",
+   "tags": [
+    "music-video",
+    "retro-sci-fi",
+    "vhs",
+    "warren-fu"
+   ],
+   "note": "VHS-textured retro sci-fi: a love story on a desolate red planet, with a Daft Punk cameo at the end. Nostalgia used with precision.",
+   "dir": "Warren Fu",
+   "added": "2026-11-24",
+   "yt": "qFLhGq0060w"
+  },
+  {
+   "id": "crossing-trailer",
+   "brand": "Crossing",
+   "title": "Official trailer",
+   "year": 2024,
+   "cat": "promo",
+   "len": "1:53",
+   "tags": [
+    "trailer",
+    "mubi",
+    "istanbul",
+    "road-movie"
+   ],
+   "note": "A retired teacher searching Istanbul for her lost niece. Warm, human and quietly urgent.",
+   "dir": "Levan Akin",
+   "added": "2026-11-24",
+   "yt": "Sp7LGi5Uwg4"
+  },
+  {
+   "id": "dune-prophecy-titles",
+   "brand": "Dune: Prophecy",
+   "title": "Title sequence",
+   "year": 2024,
+   "cat": "film",
+   "len": "1:33",
+   "tags": [
+    "title-sequence",
+    "sand",
+    "sci-fi",
+    "texture"
+   ],
+   "note": "Sand, sigils and spice-world textures. A title sequence built from the Dune universe's materials.",
+   "dir": "",
+   "added": "2026-11-24",
+   "yt": "KqSJBmlC4B0"
+  },
   {
    "id": "florida-project-trailer",
    "brand": "The Florida Project",
