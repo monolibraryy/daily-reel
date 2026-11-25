@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "videos": [
+  {
+   "id": "belvedere-daniel-craig",
+   "brand": "Belvedere",
+   "title": "Daniel Craig, directed by Taika Waititi (Director's Cut)",
+   "year": 2022,
+   "cat": "ad",
+   "len": "2:36",
+   "tags": [
+    "celebrity",
+    "dance",
+    "comedy",
+    "waititi"
+   ],
+   "note": "Daniel Craig dances wildly through Paris while the city stares. Waititi turns a vodka ad into deadpan physical comedy.",
+   "dir": "Taika Waititi",
+   "added": "2026-11-25",
+   "yt": "ekESZIn4y18"
+  },
+  {
+   "id": "adidas-the-dream-2014",
+   "brand": "adidas",
+   "title": "The Dream: all in or nothing",
+   "year": 2014,
+   "cat": "ad",
+   "len": "1:15",
+   "tags": [
+    "football",
+    "world-cup",
+    "dream",
+    "stars"
+   ],
+   "note": "A World Cup ad framed as a player's dream, with stars and stakes stacked high. Big-tournament adidas energy.",
+   "dir": "",
+   "added": "2026-11-25",
+   "yt": "1C9rwy0weq8"
+  },
+  {
+   "id": "8-and-a-half-trailer",
+   "brand": "8½",
+   "title": "Trailer",
+   "year": 1963,
+   "cat": "promo",
+   "len": "3:26",
+   "tags": [
+    "trailer",
+    "criterion",
+    "fellini",
+    "dream"
+   ],
+   "note": "Fellini's dreamlike portrait of a blocked director. A trailer full of iconic black-and-white imagery.",
+   "dir": "Federico Fellini",
+   "added": "2026-11-25",
+   "yt": "4CjMvGBY_lI"
+  },
+  {
+   "id": "trainspotting-opening",
+   "brand": "Trainspotting",
+   "title": "Opening: \"Choose life\"",
+   "year": 1996,
+   "cat": "film",
+   "len": "5:47",
+   "tags": [
+    "opening-scene",
+    "monologue",
+    "iggy-pop",
+    "boyle"
+   ],
+   "note": "Renton sprints down Princes Street to \"Lust for Life\" while delivering the \"Choose life\" monologue. A defining 90s opening.",
+   "dir": "Danny Boyle",
+   "added": "2026-11-25",
+   "yt": "qekXqURp-Ss"
+  },
+  {
+   "id": "spectre-titles",
+   "brand": "Spectre",
+   "title": "Opening title sequence",
+   "year": 2015,
+   "cat": "film",
+   "len": "3:54",
+   "tags": [
+    "title-sequence",
+    "bond",
+    "octopus",
+    "kleinman"
+   ],
+   "note": "Tentacles, fire and silhouettes, with ghosts of past villains. Kleinman's lush, slow-burn Bond titles.",
+   "dir": "Daniel Kleinman",
+   "added": "2026-11-25",
+   "yt": "G9LxUQL_Ucg"
+  },
+  {
+   "id": "harvey-nichols-sorry-i-spent-it",
+   "brand": "Harvey Nichols",
+   "title": "\"Sorry, I Spent It On Myself\"",
+   "year": 2013,
+   "cat": "ad",
+   "len": "1:45",
+   "tags": [
+    "christmas",
+    "comedy",
+    "retail",
+    "grand-prix"
+   ],
+   "note": "A Christmas campaign about buying cheap gifts for others so you can spoil yourself. Winner of the Cannes Film Grand Prix in 2014.",
+   "dir": "",
+   "added": "2026-11-25",
+   "yt": "gt2n70zhN1k"
+  },
+  {
+   "id": "john-wick-2-gun-shopping",
+   "brand": "John Wick: Chapter 2",
+   "title": "Gun shopping with the sommelier",
+   "year": 2017,
+   "cat": "film",
+   "len": "3:27",
+   "tags": [
+    "world-building",
+    "deadpan",
+    "weapons",
+    "stahelski"
+   ],
+   "note": "Guns presented like a wine pairing by a hotel \"sommelier\". World-building through ritual and deadpan dialogue.",
+   "dir": "Chad Stahelski",
+   "added": "2026-11-25",
+   "yt": "qIalODmFrZk"
+  },
+  {
+   "id": "eddington-trailer",
+   "brand": "Eddington",
+   "title": "Official trailer",
+   "year": 2025,
+   "cat": "promo",
+   "len": "2:23",
+   "tags": [
+    "trailer",
+    "a24",
+    "western",
+    "aster"
+   ],
+   "note": "A pandemic-era small-town standoff told as a modern western. Ari Aster's dread meets satire.",
+   "dir": "Ari Aster",
+   "added": "2026-11-25",
+   "yt": "oL6jZqExlIk"
+  },
+  {
+   "id": "dream-scenario-trailer",
+   "brand": "Dream Scenario",
+   "title": "Official trailer",
+   "year": 2023,
+   "cat": "promo",
+   "len": "2:25",
+   "tags": [
+    "trailer",
+    "a24",
+    "comedy",
+    "surreal"
+   ],
+   "note": "Nicolas Cage suddenly shows up in everyone's dreams. Surreal comedy that turns into a nightmare about fame.",
+   "dir": "Kristoffer Borgli",
+   "added": "2026-11-25",
+   "yt": "q3x9iUL-74w"
+  },
+  {
+   "id": "sexy-beast-preparation",
+   "brand": "Sexy Beast",
+   "title": "\"Preparation, preparation, preparation\"",
+   "year": 2000,
+   "cat": "film",
+   "len": "2:39",
+   "tags": [
+    "monologue",
+    "menace",
+    "ben-kingsley",
+    "glazer"
+   ],
+   "note": "Ben Kingsley's Don Logan in full, terrifying flow. Glazer lets the performance run with almost no cutting.",
+   "dir": "Jonathan Glazer",
+   "added": "2026-11-25",
+   "yt": "p6U8-Vm3iss"
+  },
   {
    "id": "dark-knight-ending",
    "brand": "The Dark Knight",
