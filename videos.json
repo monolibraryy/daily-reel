@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "videos": [
+  {
+   "id": "aggro-dr1ft-trailer",
+   "brand": "AGGRO DR1FT",
+   "title": "Official trailer",
+   "year": 2023,
+   "cat": "promo",
+   "len": "1:04",
+   "tags": [
+    "trailer",
+    "thermal",
+    "experimental",
+    "korine"
+   ],
+   "note": "Shot entirely in thermal imaging: Harmony Korine's assassin film looks like a video game from another planet. Pure visual provocation.",
+   "dir": "Harmony Korine",
+   "added": "2026-11-26",
+   "yt": "0_LDcKwbT2w"
+  },
+  {
+   "id": "nike-footballverse",
+   "brand": "Nike FC",
+   "title": "The Footballverse",
+   "year": 2022,
+   "cat": "ad",
+   "len": "4:28",
+   "tags": [
+    "football",
+    "world-cup",
+    "multiverse",
+    "stars"
+   ],
+   "note": "Scientists clone football's greatest stars across eras to build the perfect player. A big, playful World Cup epic.",
+   "dir": "",
+   "added": "2026-11-26",
+   "yt": "TrI8m9UilM8"
+  },
+  {
+   "id": "kong-skull-island-titles",
+   "brand": "Kong: Skull Island",
+   "title": "Opening title sequence",
+   "year": 2017,
+   "cat": "film",
+   "len": "1:52",
+   "tags": [
+    "title-sequence",
+    "archival",
+    "vietnam-era",
+    "montage"
+   ],
+   "note": "Archival-style montage from the 40s to the 70s sets up Monarch and the Cold War backdrop. History used as world-building.",
+   "dir": "",
+   "added": "2026-11-26",
+   "yt": "iNABybqwUnI"
+  },
+  {
+   "id": "the-new-years-trailer",
+   "brand": "The New Years",
+   "title": "Official trailer",
+   "year": 2024,
+   "cat": "promo",
+   "len": "1:48",
+   "tags": [
+    "trailer",
+    "mubi",
+    "romance",
+    "time"
+   ],
+   "note": "One couple, ten New Year's Eves. A trailer built on intimacy and the passing of time.",
+   "dir": "",
+   "added": "2026-11-26",
+   "yt": "x-2YislHux4"
+  },
+  {
+   "id": "pulp-fiction-ezekiel",
+   "brand": "Pulp Fiction",
+   "title": "Ezekiel 25:17",
+   "year": 1994,
+   "cat": "film",
+   "len": "2:28",
+   "tags": [
+    "monologue",
+    "tension",
+    "tarantino",
+    "iconic"
+   ],
+   "note": "Jules's scripture recital before the shooting. Tarantino builds dread from conversation, then explodes it.",
+   "dir": "Quentin Tarantino",
+   "added": "2026-11-26",
+   "yt": "x2WK_eWihdU"
+  },
+  {
+   "id": "snatch-bullet-tooth-tony",
+   "brand": "Snatch",
+   "title": "Bullet Tooth Tony",
+   "year": 2000,
+   "cat": "film",
+   "len": "3:29",
+   "tags": [
+    "guy-ritchie",
+    "monologue",
+    "menace",
+    "dialogue"
+   ],
+   "note": "Vinnie Jones's \"Desert Eagle .50\" speech. A masterclass in menace through calm delivery.",
+   "dir": "Guy Ritchie",
+   "added": "2026-11-26",
+   "yt": "_ow1zan-7Wc"
+  },
+  {
+   "id": "decameron-titles",
+   "brand": "The Decameron",
+   "title": "Main title sequence",
+   "year": 2024,
+   "cat": "film",
+   "len": "1:32",
+   "tags": [
+    "title-sequence",
+    "illuminated",
+    "plague",
+    "comedy"
+   ],
+   "note": "Medieval illuminated-manuscript style meets dark comedy. Period art reworked with a modern wink.",
+   "dir": "Plains of Yonder",
+   "added": "2026-11-26",
+   "yt": "79DcuC1U5zI"
+  },
+  {
+   "id": "fight-club-boss",
+   "brand": "Fight Club",
+   "title": "The boss scene",
+   "year": 1999,
+   "cat": "film",
+   "len": "1:27",
+   "tags": [
+    "dialogue",
+    "blackmail",
+    "comedy",
+    "fincher"
+   ],
+   "note": "The narrator calmly blackmails his boss and then beats himself up in the office. Comedy and violence in one take.",
+   "dir": "David Fincher",
+   "added": "2026-11-26",
+   "yt": "CkXAIdrs4Fc"
+  },
+  {
+   "id": "godzilla-2014-opening",
+   "brand": "Godzilla",
+   "title": "Opening credits: \"Map of the Pacific\"",
+   "year": 2014,
+   "cat": "film",
+   "len": "2:08",
+   "tags": [
+    "title-sequence",
+    "archival",
+    "redaction",
+    "cold-war"
+   ],
+   "note": "Redacted documents and nuclear-test footage hide the monster in plain sight. A title sequence that rewrites history.",
+   "dir": "",
+   "added": "2026-11-26",
+   "yt": "NBQJjqnG1iI"
+  },
+  {
+   "id": "trainspotting-trailer",
+   "brand": "Trainspotting",
+   "title": "Trailer",
+   "year": 1996,
+   "cat": "promo",
+   "len": "1:10",
+   "tags": [
+    "trailer",
+    "90s",
+    "britpop",
+    "boyle"
+   ],
+   "note": "Freeze frames, attitude and a Britpop soundtrack. The trailer that sold a generation's cult film.",
+   "dir": "Danny Boyle",
+   "added": "2026-11-26",
+   "yt": "nBKWnAdmJJ8"
+  },
   {
    "id": "belvedere-daniel-craig",
    "brand": "Belvedere",
