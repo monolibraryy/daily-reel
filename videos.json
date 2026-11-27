@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "videos": [
+  {
+   "id": "the-moment-trailer",
+   "brand": "The Moment",
+   "title": "Official trailer",
+   "year": 2026,
+   "cat": "promo",
+   "len": "2:19",
+   "tags": [
+    "trailer",
+    "a24",
+    "mockumentary",
+    "pop"
+   ],
+   "note": "Charli XCX plays a fictionalised version of herself at the height of Brat summer. A sharp, meta trailer about pop fame and the industry.",
+   "dir": "Aidan Zamiri",
+   "added": "2026-11-27",
+   "yt": "Pxqhi7Sgvu8"
+  },
+  {
+   "id": "drive-my-car-trailer",
+   "brand": "Drive My Car",
+   "title": "Trailer",
+   "year": 2021,
+   "cat": "promo",
+   "len": "1:58",
+   "tags": [
+    "trailer",
+    "road",
+    "grief",
+    "hamaguchi"
+   ],
+   "note": "A red Saab, long drives and quiet confessions. A trailer that trusts stillness and faces.",
+   "dir": "Ryusuke Hamaguchi",
+   "added": "2026-11-27",
+   "yt": "6BPKPb_RTwI"
+  },
+  {
+   "id": "ald-porsche-2025",
+   "brand": "Aimé Leon Dore × Porsche",
+   "title": "2025 capsule collection",
+   "year": 2025,
+   "cat": "ad",
+   "len": "0:31",
+   "tags": [
+    "fashion",
+    "cars",
+    "heritage",
+    "nostalgic"
+   ],
+   "note": "ALD's warm, nostalgic eye applied to Porsche heritage. A brand collab that feels like a memory.",
+   "dir": "",
+   "added": "2026-11-27",
+   "yt": "_404tngOkbI"
+  },
+  {
+   "id": "scarface-world-is-yours",
+   "brand": "Scarface",
+   "title": "\"The world is yours\"",
+   "year": 1983,
+   "cat": "film",
+   "len": "1:59",
+   "tags": [
+    "iconic",
+    "blimp",
+    "ambition",
+    "de-palma"
+   ],
+   "note": "Tony sees the Pan Am blimp's message and takes it as a promise. A tiny moment that defines a character's ambition.",
+   "dir": "Brian De Palma",
+   "added": "2026-11-27",
+   "yt": "k_SenHfKuUg"
+  },
+  {
+   "id": "too-old-to-die-young-teaser",
+   "brand": "Too Old to Die Young",
+   "title": "Teaser trailer",
+   "year": 2019,
+   "cat": "promo",
+   "len": "1:44",
+   "tags": [
+    "trailer",
+    "neon",
+    "refn",
+    "slow-burn"
+   ],
+   "note": "Refn's neon-soaked crime series in a slow, hypnotic teaser. Mood over plot.",
+   "dir": "Nicolas Winding Refn",
+   "added": "2026-11-27",
+   "yt": "dB9aTDQso-U"
+  },
+  {
+   "id": "kes-trailer",
+   "brand": "Kes",
+   "title": "Trailer",
+   "year": 1969,
+   "cat": "promo",
+   "len": "3:00",
+   "tags": [
+    "trailer",
+    "criterion",
+    "realism",
+    "loach"
+   ],
+   "note": "A Yorkshire boy and his kestrel. Raw British realism, sold with tenderness.",
+   "dir": "Ken Loach",
+   "added": "2026-11-27",
+   "yt": "Q2BMFtefUag"
+  },
+  {
+   "id": "se7en-opening-scene",
+   "brand": "Se7en",
+   "title": "Opening scene",
+   "year": 1995,
+   "cat": "film",
+   "len": "6:03",
+   "tags": [
+    "opening-scene",
+    "rain",
+    "noir",
+    "fincher"
+   ],
+   "note": "Somerset's methodical morning and the first crime scene in endless rain. Fincher sets the film's grim world in minutes.",
+   "dir": "David Fincher",
+   "added": "2026-11-27",
+   "yt": "-rUud0Vq1X0"
+  },
+  {
+   "id": "prey-trailer",
+   "brand": "Prey",
+   "title": "Official trailer",
+   "year": 2022,
+   "cat": "promo",
+   "len": "2:17",
+   "tags": [
+    "trailer",
+    "survival",
+    "comanche",
+    "predator"
+   ],
+   "note": "A Comanche warrior versus a Predator in the 1700s. A lean, primal reinvention of a franchise.",
+   "dir": "Dan Trachtenberg",
+   "added": "2026-11-27",
+   "yt": "wZ7LytagKlc"
+  },
+  {
+   "id": "house-on-haunted-hill-titles",
+   "brand": "House on Haunted Hill",
+   "title": "Main title sequence",
+   "year": 1999,
+   "cat": "film",
+   "len": "2:47",
+   "tags": [
+    "title-sequence",
+    "glitch",
+    "horror",
+    "90s"
+   ],
+   "note": "Flickering, glitchy found-footage textures and industrial dread. Peak late-90s horror titles.",
+   "dir": "",
+   "added": "2026-11-27",
+   "yt": "nT0Gp2aenTI"
+  },
+  {
+   "id": "john-wick-home-invasion",
+   "brand": "John Wick",
+   "title": "Home invasion",
+   "year": 2014,
+   "cat": "film",
+   "len": "4:48",
+   "tags": [
+    "fight",
+    "night",
+    "gun-fu",
+    "stahelski"
+   ],
+   "note": "A dark house, a crew of intruders and John's gun-fu at close quarters. The scene that established the franchise's action language.",
+   "dir": "Chad Stahelski",
+   "added": "2026-11-27",
+   "yt": "rnXfGAM4vo0"
+  },
   {
    "id": "aggro-dr1ft-trailer",
    "brand": "AGGRO DR1FT",
